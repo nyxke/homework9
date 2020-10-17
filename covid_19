@@ -1,0 +1,1482 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Confirmed": 39703,
+    "Deaths": 1473,
+    "Recovered": 33064,
+    "Active": 5166,
+    "Population": 38928341
+  },
+  {
+    "Country": "Albania",
+    "Confirmed": 15231,
+    "Deaths": 416,
+    "Recovered": 9406,
+    "Active": 5409,
+    "Population": 2877800
+  },
+  {
+    "Country": "Algeria",
+    "Confirmed": 52940,
+    "Deaths": 1795,
+    "Recovered": 37170,
+    "Active": 13975,
+    "Population": 43851043
+  },
+  {
+    "Country": "Andorra",
+    "Confirmed": 2696,
+    "Deaths": 55,
+    "Recovered": 1814,
+    "Active": 827,
+    "Population": 77265
+  },
+  {
+    "Country": "Angola",
+    "Confirmed": 6246,
+    "Deaths": 218,
+    "Recovered": 2716,
+    "Active": 3312,
+    "Population": 32866268
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Confirmed": 111,
+    "Deaths": 3,
+    "Recovered": 97,
+    "Active": 11,
+    "Population": 97928
+  },
+  {
+    "Country": "Argentina",
+    "Confirmed": 883882,
+    "Deaths": 23581,
+    "Recovered": 709464,
+    "Active": 150837,
+    "Population": 45195777
+  },
+  {
+    "Country": "Armenia",
+    "Confirmed": 55736,
+    "Deaths": 1016,
+    "Recovered": 45771,
+    "Active": 8949,
+    "Population": 2963234
+  },
+  {
+    "Country": "Australia",
+    "Confirmed": 27263,
+    "Deaths": 898,
+    "Recovered": 24987,
+    "Active": 1378,
+    "Population": 25499881
+  },
+  {
+    "Country": "Austria",
+    "Confirmed": 54423,
+    "Deaths": 852,
+    "Recovered": 42829,
+    "Active": 10742,
+    "Population": 9006400
+  },
+  {
+    "Country": "Azerbaijan",
+    "Confirmed": 41752,
+    "Deaths": 608,
+    "Recovered": 39235,
+    "Active": 1909,
+    "Population": 10139175
+  },
+  {
+    "Country": "Bahamas",
+    "Confirmed": 5023,
+    "Deaths": 106,
+    "Recovered": 2815,
+    "Active": 2102,
+    "Population": 393248
+  },
+  {
+    "Country": "Bahrain",
+    "Confirmed": 75287,
+    "Deaths": 273,
+    "Recovered": 70808,
+    "Active": 4206,
+    "Population": 1701583
+  },
+  {
+    "Country": "Bangladesh",
+    "Confirmed": 377073,
+    "Deaths": 5500,
+    "Recovered": 291365,
+    "Active": 80208,
+    "Population": 164689383
+  },
+  {
+    "Country": "Barbados",
+    "Confirmed": 206,
+    "Deaths": 7,
+    "Recovered": 183,
+    "Active": 16,
+    "Population": 287371
+  },
+  {
+    "Country": "Belarus",
+    "Confirmed": 82471,
+    "Deaths": 885,
+    "Recovered": 76543,
+    "Active": 5043,
+    "Population": 9449321
+  },
+  {
+    "Country": "Belgium",
+    "Confirmed": 156931,
+    "Deaths": 10175,
+    "Recovered": 20202,
+    "Active": 126554,
+    "Population": 11589616
+  },
+  {
+    "Country": "Belize",
+    "Confirmed": 2427,
+    "Deaths": 35,
+    "Recovered": 1487,
+    "Active": 905,
+    "Population": 397621
+  },
+  {
+    "Country": "Benin",
+    "Confirmed": 2411,
+    "Deaths": 41,
+    "Recovered": 1973,
+    "Active": 397,
+    "Population": 12123198
+  },
+  {
+    "Country": "Bhutan",
+    "Confirmed": 306,
+    "Deaths": 0,
+    "Recovered": 287,
+    "Active": 19,
+    "Population": 771612
+  },
+  {
+    "Country": "Bolivia",
+    "Confirmed": 138463,
+    "Deaths": 8292,
+    "Recovered": 100786,
+    "Active": 29385,
+    "Population": 11673029
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Confirmed": 30345,
+    "Deaths": 927,
+    "Recovered": 23370,
+    "Active": 6048,
+    "Population": 3280815
+  },
+  {
+    "Country": "Botswana",
+    "Confirmed": 3219,
+    "Deaths": 18,
+    "Recovered": 834,
+    "Active": 2367,
+    "Population": 2351625
+  },
+  {
+    "Country": "Brazil",
+    "Confirmed": 5055888,
+    "Deaths": 149639,
+    "Recovered": 4502854,
+    "Active": 403395,
+    "Population": 212559409
+  },
+  {
+    "Country": "Brunei",
+    "Confirmed": 146,
+    "Deaths": 3,
+    "Recovered": 143,
+    "Active": 0,
+    "Population": 437479
+  },
+  {
+    "Country": "Bulgaria",
+    "Confirmed": 24319,
+    "Deaths": 891,
+    "Recovered": 15818,
+    "Active": 7610,
+    "Population": 6948445
+  },
+  {
+    "Country": "Burkina Faso",
+    "Confirmed": 2271,
+    "Deaths": 61,
+    "Recovered": 1542,
+    "Active": 668,
+    "Population": 20903278
+  },
+  {
+    "Country": "Burma",
+    "Confirmed": 26064,
+    "Deaths": 598,
+    "Recovered": 7050,
+    "Active": 18416,
+    "Population": 54409800
+  },
+  {
+    "Country": "Burundi",
+    "Confirmed": 517,
+    "Deaths": 1,
+    "Recovered": 472,
+    "Active": 44,
+    "Population": 11890781
+  },
+  {
+    "Country": "Cabo Verde",
+    "Confirmed": 6913,
+    "Deaths": 74,
+    "Recovered": 5970,
+    "Active": 869,
+    "Population": 548800
+  },
+  {
+    "Country": "Cambodia",
+    "Confirmed": 283,
+    "Deaths": 0,
+    "Recovered": 277,
+    "Active": 6,
+    "Population": 16718971
+  },
+  {
+    "Country": "Cameroon",
+    "Confirmed": 21203,
+    "Deaths": 423,
+    "Recovered": 20117,
+    "Active": 663,
+    "Population": 26545864
+  },
+  {
+    "Country": "Canada",
+    "Confirmed": 182767,
+    "Deaths": 9661,
+    "Recovered": 153857,
+    "Active": 19250,
+    "Population": 37742157
+  },
+  {
+    "Country": "Central African Republic",
+    "Confirmed": 4854,
+    "Deaths": 62,
+    "Recovered": 1924,
+    "Active": 2868,
+    "Population": 4829764
+  },
+  {
+    "Country": "Chad",
+    "Confirmed": 1291,
+    "Deaths": 92,
+    "Recovered": 1103,
+    "Active": 96,
+    "Population": 16425859
+  },
+  {
+    "Country": "Chile",
+    "Confirmed": 479595,
+    "Deaths": 13272,
+    "Recovered": 452054,
+    "Active": 14269,
+    "Population": 19116209
+  },
+  {
+    "Country": "China",
+    "Confirmed": 90778,
+    "Deaths": 4739,
+    "Recovered": 85658,
+    "Active": 381,
+    "Population": 1439323774
+  },
+  {
+    "Country": "Colombia",
+    "Confirmed": 902747,
+    "Deaths": 27660,
+    "Recovered": 783131,
+    "Active": 91956,
+    "Population": 50882884
+  },
+  {
+    "Country": "Comoros",
+    "Confirmed": 495,
+    "Deaths": 7,
+    "Recovered": 475,
+    "Active": 13,
+    "Population": 869595
+  },
+  {
+    "Country": "Congo (Kinshasa)",
+    "Confirmed": 10841,
+    "Deaths": 276,
+    "Recovered": 10242,
+    "Active": 323,
+    "Population": 5518092
+  },
+  {
+    "Country": "Costa Rica",
+    "Confirmed": 87439,
+    "Deaths": 1076,
+    "Recovered": 52669,
+    "Active": 33694,
+    "Population": 5094114
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Confirmed": 20128,
+    "Deaths": 120,
+    "Recovered": 19752,
+    "Active": 256,
+    "Population": 25070000
+  },
+  {
+    "Country": "Croatia",
+    "Confirmed": 19932,
+    "Deaths": 317,
+    "Recovered": 16953,
+    "Active": 2662,
+    "Population": 4105268
+  },
+  {
+    "Country": "Cuba",
+    "Confirmed": 5948,
+    "Deaths": 123,
+    "Recovered": 5440,
+    "Active": 385,
+    "Population": 11326616
+  },
+  {
+    "Country": "Cyprus",
+    "Confirmed": 1986,
+    "Deaths": 25,
+    "Recovered": 1444,
+    "Active": 517,
+    "Population": 875899
+  },
+  {
+    "Country": "Czechia",
+    "Confirmed": 114005,
+    "Deaths": 948,
+    "Recovered": 54909,
+    "Active": 58148,
+    "Population": 10708982
+  },
+  {
+    "Country": "Denmark",
+    "Confirmed": 32575,
+    "Deaths": 667,
+    "Recovered": 26462,
+    "Active": 5446,
+    "Population": 5792203
+  },
+  {
+    "Country": "Djibouti",
+    "Confirmed": 5423,
+    "Deaths": 61,
+    "Recovered": 5355,
+    "Active": 7,
+    "Population": 988002
+  },
+  {
+    "Country": "Dominica",
+    "Confirmed": 32,
+    "Deaths": 0,
+    "Recovered": 24,
+    "Active": 8,
+    "Population": 71991
+  },
+  {
+    "Country": "Dominican Republic",
+    "Confirmed": 118014,
+    "Deaths": 2167,
+    "Recovered": 93627,
+    "Active": 22220,
+    "Population": 10847904
+  },
+  {
+    "Country": "Ecuador",
+    "Confirmed": 146828,
+    "Deaths": 12188,
+    "Recovered": 120511,
+    "Active": 14129,
+    "Population": 17643060
+  },
+  {
+    "Country": "Egypt",
+    "Confirmed": 104387,
+    "Deaths": 6040,
+    "Recovered": 97643,
+    "Active": 704,
+    "Population": 102334403
+  },
+  {
+    "Country": "El Salvador",
+    "Confirmed": 29951,
+    "Deaths": 887,
+    "Recovered": 24995,
+    "Active": 4069,
+    "Population": 6486201
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Confirmed": 5063,
+    "Deaths": 83,
+    "Recovered": 4894,
+    "Active": 86,
+    "Population": 1402985
+  },
+  {
+    "Country": "Eritrea",
+    "Confirmed": 414,
+    "Deaths": 0,
+    "Recovered": 372,
+    "Active": 42,
+    "Population": 3546427
+  },
+  {
+    "Country": "Estonia",
+    "Confirmed": 3846,
+    "Deaths": 68,
+    "Recovered": 2946,
+    "Active": 832,
+    "Population": 1326539
+  },
+  {
+    "Country": "Eswatini",
+    "Confirmed": 5660,
+    "Deaths": 113,
+    "Recovered": 5282,
+    "Active": 265,
+    "Population": 1160164
+  },
+  {
+    "Country": "Ethiopia",
+    "Confirmed": 83429,
+    "Deaths": 1277,
+    "Recovered": 37683,
+    "Active": 44469,
+    "Population": 114963583
+  },
+  {
+    "Country": "Fiji",
+    "Confirmed": 32,
+    "Deaths": 2,
+    "Recovered": 28,
+    "Active": 2,
+    "Population": 896444
+  },
+  {
+    "Country": "Finland",
+    "Confirmed": 11849,
+    "Deaths": 346,
+    "Recovered": 8500,
+    "Active": 3003,
+    "Population": 5540718
+  },
+  {
+    "Country": "France",
+    "Confirmed": 732434,
+    "Deaths": 32601,
+    "Recovered": 103232,
+    "Active": 596601,
+    "Population": 65273512
+  },
+  {
+    "Country": "Gabon",
+    "Confirmed": 8835,
+    "Deaths": 54,
+    "Recovered": 8189,
+    "Active": 592,
+    "Population": 2225728
+  },
+  {
+    "Country": "Gambia",
+    "Confirmed": 3628,
+    "Deaths": 117,
+    "Recovered": 2540,
+    "Active": 971,
+    "Population": 2416664
+  },
+  {
+    "Country": "Georgia",
+    "Confirmed": 11271,
+    "Deaths": 78,
+    "Recovered": 6119,
+    "Active": 5074,
+    "Population": 3989175
+  },
+  {
+    "Country": "Germany",
+    "Confirmed": 323463,
+    "Deaths": 9620,
+    "Recovered": 274934,
+    "Active": 38909,
+    "Population": 83783945
+  },
+  {
+    "Country": "Ghana",
+    "Confirmed": 47005,
+    "Deaths": 306,
+    "Recovered": 46398,
+    "Active": 301,
+    "Population": 31072945
+  },
+  {
+    "Country": "Greece",
+    "Confirmed": 22078,
+    "Deaths": 436,
+    "Recovered": 1347,
+    "Active": 20295,
+    "Population": 10423056
+  },
+  {
+    "Country": "Grenada",
+    "Confirmed": 24,
+    "Deaths": 0,
+    "Recovered": 24,
+    "Active": 0,
+    "Population": 112519
+  },
+  {
+    "Country": "Guatemala",
+    "Confirmed": 97544,
+    "Deaths": 3365,
+    "Recovered": 86046,
+    "Active": 8133,
+    "Population": 17915567
+  },
+  {
+    "Country": "Guinea",
+    "Confirmed": 10996,
+    "Deaths": 69,
+    "Recovered": 10304,
+    "Active": 623,
+    "Population": 13132792
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Confirmed": 2385,
+    "Deaths": 40,
+    "Recovered": 1728,
+    "Active": 617,
+    "Population": 1874000
+  },
+  {
+    "Country": "Guyana",
+    "Confirmed": 3405,
+    "Deaths": 102,
+    "Recovered": 2304,
+    "Active": 999,
+    "Population": 786559
+  },
+  {
+    "Country": "Haiti",
+    "Confirmed": 8860,
+    "Deaths": 230,
+    "Recovered": 7104,
+    "Active": 1526,
+    "Population": 11402533
+  },
+  {
+    "Country": "Holy See",
+    "Confirmed": 12,
+    "Deaths": 0,
+    "Recovered": 12,
+    "Active": 0,
+    "Population": 809
+  },
+  {
+    "Country": "Honduras",
+    "Confirmed": 83146,
+    "Deaths": 2504,
+    "Recovered": 31931,
+    "Active": 48711,
+    "Population": 9904608
+  },
+  {
+    "Country": "Hungary",
+    "Confirmed": 36596,
+    "Deaths": 933,
+    "Recovered": 9683,
+    "Active": 25980,
+    "Population": 9660350
+  },
+  {
+    "Country": "Iceland",
+    "Confirmed": 3460,
+    "Deaths": 10,
+    "Recovered": 2466,
+    "Active": 984,
+    "Population": 341250
+  },
+  {
+    "Country": "India",
+    "Confirmed": 7053806,
+    "Deaths": 108334,
+    "Recovered": 6077976,
+    "Active": 867496,
+    "Population": 1380004385
+  },
+  {
+    "Country": "Indonesia",
+    "Confirmed": 328952,
+    "Deaths": 11765,
+    "Recovered": 251481,
+    "Active": 65706,
+    "Population": 273523621
+  },
+  {
+    "Country": "Iran",
+    "Confirmed": 496253,
+    "Deaths": 28293,
+    "Recovered": 403950,
+    "Active": 64010,
+    "Population": 83992953
+  },
+  {
+    "Country": "Iraq",
+    "Confirmed": 400124,
+    "Deaths": 9790,
+    "Recovered": 332330,
+    "Active": 58004,
+    "Population": 40222503
+  },
+  {
+    "Country": "Ireland",
+    "Confirmed": 41714,
+    "Deaths": 1824,
+    "Recovered": 23364,
+    "Active": 16526,
+    "Population": 4937796
+  },
+  {
+    "Country": "Israel",
+    "Confirmed": 289875,
+    "Deaths": 1941,
+    "Recovered": 225725,
+    "Active": 62209,
+    "Population": 8655541
+  },
+  {
+    "Country": "Italy",
+    "Confirmed": 349494,
+    "Deaths": 36140,
+    "Recovered": 238525,
+    "Active": 74829,
+    "Population": 60461828
+  },
+  {
+    "Country": "Jamaica",
+    "Confirmed": 7559,
+    "Deaths": 138,
+    "Recovered": 3142,
+    "Active": 4279,
+    "Population": 2961161
+  },
+  {
+    "Country": "Japan",
+    "Confirmed": 88962,
+    "Deaths": 1626,
+    "Recovered": 80798,
+    "Active": 6539,
+    "Population": 126476458
+  },
+  {
+    "Country": "Jordan",
+    "Confirmed": 23998,
+    "Deaths": 181,
+    "Recovered": 6045,
+    "Active": 17772,
+    "Population": 10203140
+  },
+  {
+    "Country": "Kazakhstan",
+    "Confirmed": 108757,
+    "Deaths": 1746,
+    "Recovered": 103980,
+    "Active": 3031,
+    "Population": 18776707
+  },
+  {
+    "Country": "Kenya",
+    "Confirmed": 41158,
+    "Deaths": 760,
+    "Recovered": 31876,
+    "Active": 8522,
+    "Population": 53771300
+  },
+  {
+    "Country": "Korea, South",
+    "Confirmed": 24606,
+    "Deaths": 432,
+    "Recovered": 22693,
+    "Active": 1481,
+    "Population": 51640000
+  },
+  {
+    "Country": "Kosovo",
+    "Confirmed": 16130,
+    "Deaths": 645,
+    "Recovered": 14282,
+    "Active": 1203,
+    "Population": 1932774
+  },
+  {
+    "Country": "Kuwait",
+    "Confirmed": 110568,
+    "Deaths": 655,
+    "Recovered": 102722,
+    "Active": 7191,
+    "Population": 4270563
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Confirmed": 48924,
+    "Deaths": 1082,
+    "Recovered": 44227,
+    "Active": 3615,
+    "Population": 6524191
+  },
+  {
+    "Country": "Laos",
+    "Confirmed": 23,
+    "Deaths": 0,
+    "Recovered": 22,
+    "Active": 1,
+    "Population": 7275556
+  },
+  {
+    "Country": "Latvia",
+    "Confirmed": 2596,
+    "Deaths": 40,
+    "Recovered": 1322,
+    "Active": 1234,
+    "Population": 1886202
+  },
+  {
+    "Country": "Lebanon",
+    "Confirmed": 52558,
+    "Deaths": 455,
+    "Recovered": 22719,
+    "Active": 29384,
+    "Population": 6825442
+  },
+  {
+    "Country": "Lesotho",
+    "Confirmed": 1800,
+    "Deaths": 42,
+    "Recovered": 926,
+    "Active": 832,
+    "Population": 2142252
+  },
+  {
+    "Country": "Liberia",
+    "Confirmed": 1363,
+    "Deaths": 82,
+    "Recovered": 1245,
+    "Active": 36,
+    "Population": 5057677
+  },
+  {
+    "Country": "Libya",
+    "Confirmed": 41686,
+    "Deaths": 623,
+    "Recovered": 23791,
+    "Active": 17272,
+    "Population": 6871287
+  },
+  {
+    "Country": "Liechtenstein",
+    "Confirmed": 142,
+    "Deaths": 1,
+    "Recovered": 117,
+    "Active": 24,
+    "Population": 38137
+  },
+  {
+    "Country": "Lithuania",
+    "Confirmed": 5963,
+    "Deaths": 103,
+    "Recovered": 2751,
+    "Active": 3109,
+    "Population": 2722291
+  },
+  {
+    "Country": "Luxembourg",
+    "Confirmed": 9119,
+    "Deaths": 128,
+    "Recovered": 7900,
+    "Active": 1091,
+    "Population": 625976
+  },
+  {
+    "Country": "Madagascar",
+    "Confirmed": 16702,
+    "Deaths": 237,
+    "Recovered": 16012,
+    "Active": 453,
+    "Population": 27691019
+  },
+  {
+    "Country": "Malawi",
+    "Confirmed": 5821,
+    "Deaths": 180,
+    "Recovered": 4644,
+    "Active": 997,
+    "Population": 19129955
+  },
+  {
+    "Country": "Malaysia",
+    "Confirmed": 15096,
+    "Deaths": 155,
+    "Recovered": 10780,
+    "Active": 4161,
+    "Population": 32365998
+  },
+  {
+    "Country": "Maldives",
+    "Confirmed": 10859,
+    "Deaths": 34,
+    "Recovered": 9683,
+    "Active": 1142,
+    "Population": 540542
+  },
+  {
+    "Country": "Mali",
+    "Confirmed": 3273,
+    "Deaths": 132,
+    "Recovered": 2525,
+    "Active": 616,
+    "Population": 20250834
+  },
+  {
+    "Country": "Malta",
+    "Confirmed": 3681,
+    "Deaths": 41,
+    "Recovered": 2937,
+    "Active": 703,
+    "Population": 441539
+  },
+  {
+    "Country": "Mauritania",
+    "Confirmed": 7550,
+    "Deaths": 163,
+    "Recovered": 7266,
+    "Active": 121,
+    "Population": 4649660
+  },
+  {
+    "Country": "Mauritius",
+    "Confirmed": 395,
+    "Deaths": 10,
+    "Recovered": 358,
+    "Active": 27,
+    "Population": 1271767
+  },
+  {
+    "Country": "Mexico",
+    "Confirmed": 814328,
+    "Deaths": 83642,
+    "Recovered": 689377,
+    "Active": 41309,
+    "Population": 128932753
+  },
+  {
+    "Country": "Moldova",
+    "Confirmed": 61762,
+    "Deaths": 1458,
+    "Recovered": 43982,
+    "Active": 16322,
+    "Population": 4033963
+  },
+  {
+    "Country": "Monaco",
+    "Confirmed": 233,
+    "Deaths": 2,
+    "Recovered": 209,
+    "Active": 22,
+    "Population": 39244
+  },
+  {
+    "Country": "Mongolia",
+    "Confirmed": 315,
+    "Deaths": 0,
+    "Recovered": 310,
+    "Active": 5,
+    "Population": 3278292
+  },
+  {
+    "Country": "Montenegro",
+    "Confirmed": 13641,
+    "Deaths": 198,
+    "Recovered": 9429,
+    "Active": 4014,
+    "Population": 628062
+  },
+  {
+    "Country": "Morocco",
+    "Confirmed": 149841,
+    "Deaths": 2572,
+    "Recovered": 124854,
+    "Active": 22415,
+    "Population": 36910558
+  },
+  {
+    "Country": "Mozambique",
+    "Confirmed": 9844,
+    "Deaths": 70,
+    "Recovered": 7203,
+    "Active": 2571,
+    "Population": 31255435
+  },
+  {
+    "Country": "Namibia",
+    "Confirmed": 11891,
+    "Deaths": 128,
+    "Recovered": 9807,
+    "Active": 1956,
+    "Population": 2540916
+  },
+  {
+    "Country": "Nepal",
+    "Confirmed": 105684,
+    "Deaths": 614,
+    "Recovered": 74252,
+    "Active": 30818,
+    "Population": 29136808
+  },
+  {
+    "Country": "Netherlands",
+    "Confirmed": 173894,
+    "Deaths": 6624,
+    "Recovered": 4761,
+    "Active": 162509,
+    "Population": 17134873
+  },
+  {
+    "Country": "New Zealand",
+    "Confirmed": 1871,
+    "Deaths": 25,
+    "Recovered": 1801,
+    "Active": 45,
+    "Population": 4822233
+  },
+  {
+    "Country": "Nicaragua",
+    "Confirmed": 5264,
+    "Deaths": 153,
+    "Recovered": 4225,
+    "Active": 886,
+    "Population": 6624554
+  },
+  {
+    "Country": "Niger",
+    "Confirmed": 1201,
+    "Deaths": 69,
+    "Recovered": 1123,
+    "Active": 9,
+    "Population": 24206636
+  },
+  {
+    "Country": "Nigeria",
+    "Confirmed": 60103,
+    "Deaths": 1115,
+    "Recovered": 51711,
+    "Active": 7277,
+    "Population": 206139587
+  },
+  {
+    "Country": "North Macedonia",
+    "Confirmed": 20555,
+    "Deaths": 785,
+    "Recovered": 16099,
+    "Active": 3671,
+    "Population": 2083380
+  },
+  {
+    "Country": "Norway",
+    "Confirmed": 15466,
+    "Deaths": 275,
+    "Recovered": 11863,
+    "Active": 3328,
+    "Population": 5421242
+  },
+  {
+    "Country": "Oman",
+    "Confirmed": 104129,
+    "Deaths": 1009,
+    "Recovered": 91731,
+    "Active": 11389,
+    "Population": 5106622
+  },
+  {
+    "Country": "Pakistan",
+    "Confirmed": 318932,
+    "Deaths": 6570,
+    "Recovered": 303458,
+    "Active": 8904,
+    "Population": 220892331
+  },
+  {
+    "Country": "Panama",
+    "Confirmed": 119666,
+    "Deaths": 2482,
+    "Recovered": 95552,
+    "Active": 21632,
+    "Population": 4314768
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Confirmed": 549,
+    "Deaths": 7,
+    "Recovered": 532,
+    "Active": 10,
+    "Population": 8947027
+  },
+  {
+    "Country": "Paraguay",
+    "Confirmed": 48978,
+    "Deaths": 1065,
+    "Recovered": 31351,
+    "Active": 16562,
+    "Population": 7132530
+  },
+  {
+    "Country": "Peru",
+    "Confirmed": 846088,
+    "Deaths": 33223,
+    "Recovered": 733000,
+    "Active": 79865,
+    "Population": 32971846
+  },
+  {
+    "Country": "Philippines",
+    "Confirmed": 336926,
+    "Deaths": 6238,
+    "Recovered": 276094,
+    "Active": 54594,
+    "Population": 109581085
+  },
+  {
+    "Country": "Poland",
+    "Confirmed": 121638,
+    "Deaths": 2972,
+    "Recovered": 78982,
+    "Active": 39684,
+    "Population": 37846605
+  },
+  {
+    "Country": "Portugal",
+    "Confirmed": 85574,
+    "Deaths": 2067,
+    "Recovered": 52803,
+    "Active": 30704,
+    "Population": 10196707
+  },
+  {
+    "Country": "Qatar",
+    "Confirmed": 127778,
+    "Deaths": 219,
+    "Recovered": 124767,
+    "Active": 2792,
+    "Population": 2881060
+  },
+  {
+    "Country": "Romania",
+    "Confirmed": 152403,
+    "Deaths": 5358,
+    "Recovered": 116628,
+    "Active": 30417,
+    "Population": 19237682
+  },
+  {
+    "Country": "Russia",
+    "Confirmed": 1278245,
+    "Deaths": 22331,
+    "Recovered": 1011911,
+    "Active": 244003,
+    "Population": 145934460
+  },
+  {
+    "Country": "Rwanda",
+    "Confirmed": 4892,
+    "Deaths": 30,
+    "Recovered": 3566,
+    "Active": 1296,
+    "Population": 12952209
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Confirmed": 19,
+    "Deaths": 0,
+    "Recovered": 18,
+    "Active": 1,
+    "Population": 53192
+  },
+  {
+    "Country": "Saint Lucia",
+    "Confirmed": 29,
+    "Deaths": 0,
+    "Recovered": 27,
+    "Active": 2,
+    "Population": 183629
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Confirmed": 64,
+    "Deaths": 0,
+    "Recovered": 64,
+    "Active": 0,
+    "Population": 110947
+  },
+  {
+    "Country": "San Marino",
+    "Confirmed": 741,
+    "Deaths": 42,
+    "Recovered": 682,
+    "Active": 17,
+    "Population": 33938
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Confirmed": 922,
+    "Deaths": 15,
+    "Recovered": 890,
+    "Active": 17,
+    "Population": 219161
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Confirmed": 338944,
+    "Deaths": 5018,
+    "Recovered": 324737,
+    "Active": 9189,
+    "Population": 34813867
+  },
+  {
+    "Country": "Senegal",
+    "Confirmed": 15244,
+    "Deaths": 314,
+    "Recovered": 13198,
+    "Active": 1732,
+    "Population": 16743930
+  },
+  {
+    "Country": "Serbia",
+    "Confirmed": 34685,
+    "Deaths": 762,
+    "Recovered": 0,
+    "Active": 33923,
+    "Population": 6804596
+  },
+  {
+    "Country": "Seychelles",
+    "Confirmed": 148,
+    "Deaths": 0,
+    "Recovered": 144,
+    "Active": 4,
+    "Population": 98340
+  },
+  {
+    "Country": "Sierra Leone",
+    "Confirmed": 2300,
+    "Deaths": 72,
+    "Recovered": 1725,
+    "Active": 503,
+    "Population": 7976985
+  },
+  {
+    "Country": "Singapore",
+    "Confirmed": 57866,
+    "Deaths": 27,
+    "Recovered": 57698,
+    "Active": 141,
+    "Population": 5850343
+  },
+  {
+    "Country": "Slovakia",
+    "Confirmed": 18797,
+    "Deaths": 61,
+    "Recovered": 5553,
+    "Active": 13183,
+    "Population": 5459643
+  },
+  {
+    "Country": "Slovenia",
+    "Confirmed": 8252,
+    "Deaths": 167,
+    "Recovered": 5024,
+    "Active": 3061,
+    "Population": 2078932
+  },
+  {
+    "Country": "Somalia",
+    "Confirmed": 3847,
+    "Deaths": 99,
+    "Recovered": 3079,
+    "Active": 669,
+    "Population": 15893219
+  },
+  {
+    "Country": "South Africa",
+    "Confirmed": 690896,
+    "Deaths": 17673,
+    "Recovered": 622153,
+    "Active": 51070,
+    "Population": 59308690
+  },
+  {
+    "Country": "South Sudan",
+    "Confirmed": 2761,
+    "Deaths": 54,
+    "Recovered": 1290,
+    "Active": 1417,
+    "Population": 11193729
+  },
+  {
+    "Country": "Spain",
+    "Confirmed": 861112,
+    "Deaths": 32929,
+    "Recovered": 150376,
+    "Active": 677807,
+    "Population": 46754783
+  },
+  {
+    "Country": "Sri Lanka",
+    "Confirmed": 4628,
+    "Deaths": 13,
+    "Recovered": 3306,
+    "Active": 1309,
+    "Population": 21413250
+  },
+  {
+    "Country": "Sudan",
+    "Confirmed": 13670,
+    "Deaths": 836,
+    "Recovered": 6764,
+    "Active": 6070,
+    "Population": 43849269
+  },
+  {
+    "Country": "Suriname",
+    "Confirmed": 5035,
+    "Deaths": 107,
+    "Recovered": 4830,
+    "Active": 98,
+    "Population": 586634
+  },
+  {
+    "Country": "Sweden",
+    "Confirmed": 98451,
+    "Deaths": 5894,
+    "Recovered": 0,
+    "Active": 92557,
+    "Population": 10099270
+  },
+  {
+    "Country": "Switzerland",
+    "Confirmed": 60368,
+    "Deaths": 2088,
+    "Recovered": 48400,
+    "Active": 9880,
+    "Population": 8654618
+  },
+  {
+    "Country": "Syria",
+    "Confirmed": 4673,
+    "Deaths": 221,
+    "Recovered": 1271,
+    "Active": 3181,
+    "Population": 17500657
+  },
+  {
+    "Country": "Taiwan",
+    "Confirmed": 527,
+    "Deaths": 7,
+    "Recovered": 488,
+    "Active": 32,
+    "Population": 23816775
+  },
+  {
+    "Country": "Tajikistan",
+    "Confirmed": 10180,
+    "Deaths": 79,
+    "Recovered": 9006,
+    "Active": 1095,
+    "Population": 9537642
+  },
+  {
+    "Country": "Tanzania",
+    "Confirmed": 509,
+    "Deaths": 21,
+    "Recovered": 183,
+    "Active": 305,
+    "Population": 56320000
+  },
+  {
+    "Country": "Thailand",
+    "Confirmed": 3636,
+    "Deaths": 59,
+    "Recovered": 3451,
+    "Active": 126,
+    "Population": 69799978
+  },
+  {
+    "Country": "Timor-Leste",
+    "Confirmed": 28,
+    "Deaths": 0,
+    "Recovered": 28,
+    "Active": 0,
+    "Population": 1268000
+  },
+  {
+    "Country": "Togo",
+    "Confirmed": 1935,
+    "Deaths": 49,
+    "Recovered": 1444,
+    "Active": 442,
+    "Population": 8278737
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Confirmed": 5043,
+    "Deaths": 90,
+    "Recovered": 3221,
+    "Active": 1732,
+    "Population": 1399491
+  },
+  {
+    "Country": "Tunisia",
+    "Confirmed": 31259,
+    "Deaths": 456,
+    "Recovered": 5032,
+    "Active": 25771,
+    "Population": 11818618
+  },
+  {
+    "Country": "Turkey",
+    "Confirmed": 334031,
+    "Deaths": 8778,
+    "Recovered": 293145,
+    "Active": 32108,
+    "Population": 84339067
+  },
+  {
+    "Country": "Uganda",
+    "Confirmed": 9701,
+    "Deaths": 93,
+    "Recovered": 6022,
+    "Active": 3586,
+    "Population": 45741000
+  },
+  {
+    "Country": "Ukraine",
+    "Confirmed": 263105,
+    "Deaths": 5010,
+    "Recovered": 116861,
+    "Active": 141234,
+    "Population": 43733759
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Confirmed": 105133,
+    "Deaths": 443,
+    "Recovered": 95973,
+    "Active": 8717,
+    "Population": 9890400
+  },
+  {
+    "Country": "United Kingdom",
+    "Confirmed": 593565,
+    "Deaths": 42850,
+    "Recovered": 2495,
+    "Active": 548220,
+    "Population": 67886004
+  },
+  {
+    "Country": "Uruguay",
+    "Confirmed": 2268,
+    "Deaths": 50,
+    "Recovered": 1930,
+    "Active": 288,
+    "Population": 3473727
+  },
+  {
+    "Country": "United States of America",
+    "Confirmed": 7717932,
+    "Deaths": 214370,
+    "Recovered": 3062983,
+    "Active": 4440581,
+    "Population": 331002647
+  },
+  {
+    "Country": "Uzbekistan",
+    "Confirmed": 60776,
+    "Deaths": 502,
+    "Recovered": 57704,
+    "Active": 2570,
+    "Population": 33469199
+  },
+  {
+    "Country": "Venezuela",
+    "Confirmed": 82453,
+    "Deaths": 691,
+    "Recovered": 73919,
+    "Active": 7843,
+    "Population": 28435943
+  },
+  {
+    "Country": "Vietnam",
+    "Confirmed": 1107,
+    "Deaths": 35,
+    "Recovered": 1024,
+    "Active": 48,
+    "Population": 97338583
+  },
+  {
+    "Country": "West Bank and Gaza",
+    "Confirmed": 43945,
+    "Deaths": 378,
+    "Recovered": 37240,
+    "Active": 6327,
+    "Population": 4430000
+  },
+  {
+    "Country": "Western Sahara",
+    "Confirmed": 10,
+    "Deaths": 1,
+    "Recovered": 8,
+    "Active": 1,
+    "Population": 597330
+  },
+  {
+    "Country": "Yemen",
+    "Confirmed": 2051,
+    "Deaths": 595,
+    "Recovered": 1329,
+    "Active": 127,
+    "Population": 29825968
+  },
+  {
+    "Country": "Zambia",
+    "Confirmed": 15415,
+    "Deaths": 337,
+    "Recovered": 14541,
+    "Active": 537,
+    "Population": 18383956
+  },
+  {
+    "Country": "Zimbabwe",
+    "Confirmed": 8010,
+    "Deaths": 230,
+    "Recovered": 6492,
+    "Active": 1288,
+    "Population": 14862927
+  }
+]
