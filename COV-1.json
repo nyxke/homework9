@@ -1,0 +1,1479 @@
+[
+  {
+    "location": "Afghanistan",
+    "date": "15/10/2020",
+    "total_cases": 40026,
+    "total_deaths": 1481,
+    "population": 38928341
+  },
+  {
+    "location": "Albania",
+    "date": "15/10/2020",
+    "total_cases": 15955,
+    "total_deaths": 434,
+    "population": 2877800
+  },
+  {
+    "location": "Algeria",
+    "date": "15/10/2020",
+    "total_cases": 53584,
+    "total_deaths": 1827,
+    "population": 43851043
+  },
+  {
+    "location": "Andorra",
+    "date": "15/10/2020",
+    "total_cases": 3190,
+    "total_deaths": 59,
+    "population": 77265
+  },
+  {
+    "location": "Angola",
+    "date": "15/10/2020",
+    "total_cases": 6680,
+    "total_deaths": 222,
+    "population": 32866268
+  },
+  {
+    "location": "Anguilla",
+    "date": "15/10/2020",
+    "total_cases": 3,
+    "total_deaths": "",
+    "population": 15002
+  },
+  {
+    "location": "Antigua and Barbuda",
+    "date": "15/10/2020",
+    "total_cases": 112,
+    "total_deaths": 3,
+    "population": 97928
+  },
+  {
+    "location": "Argentina",
+    "date": "15/10/2020",
+    "total_cases": 931954,
+    "total_deaths": 24921,
+    "population": 45195777
+  },
+  {
+    "location": "Armenia",
+    "date": "15/10/2020",
+    "total_cases": 58624,
+    "total_deaths": 1039,
+    "population": 2963234
+  },
+  {
+    "location": "Aruba",
+    "date": "15/10/2020",
+    "total_cases": 4255,
+    "total_deaths": 32,
+    "population": 106766
+  },
+  {
+    "location": "Australia",
+    "date": "15/10/2020",
+    "total_cases": 27341,
+    "total_deaths": 904,
+    "population": 25499881
+  },
+  {
+    "location": "Austria",
+    "date": "15/10/2020",
+    "total_cases": 59368,
+    "total_deaths": 888,
+    "population": 9006400
+  },
+  {
+    "location": "Azerbaijan",
+    "date": "15/10/2020",
+    "total_cases": 42750,
+    "total_deaths": 616,
+    "population": 10139175
+  },
+  {
+    "location": "Bahamas",
+    "date": "15/10/2020",
+    "total_cases": 5385,
+    "total_deaths": 112,
+    "population": 393248
+  },
+  {
+    "location": "Bahrain",
+    "date": "15/10/2020",
+    "total_cases": 76621,
+    "total_deaths": 287,
+    "population": 1701583
+  },
+  {
+    "location": "Bangladesh",
+    "date": "15/10/2020",
+    "total_cases": 382959,
+    "total_deaths": 5593,
+    "population": 164689383
+  },
+  {
+    "location": "Barbados",
+    "date": "15/10/2020",
+    "total_cases": 215,
+    "total_deaths": 7,
+    "population": 287371
+  },
+  {
+    "location": "Belarus",
+    "date": "15/10/2020",
+    "total_cases": 85121,
+    "total_deaths": 911,
+    "population": 9449321
+  },
+  {
+    "location": "Belgium",
+    "date": "15/10/2020",
+    "total_cases": 204964,
+    "total_deaths": 10326,
+    "population": 11589616
+  },
+  {
+    "location": "Belize",
+    "date": "15/10/2020",
+    "total_cases": 2619,
+    "total_deaths": 40,
+    "population": 397621
+  },
+  {
+    "location": "Benin",
+    "date": "15/10/2020",
+    "total_cases": 2478,
+    "total_deaths": 41,
+    "population": 12123198
+  },
+  {
+    "location": "Bermuda",
+    "date": "15/10/2020",
+    "total_cases": 185,
+    "total_deaths": 9,
+    "population": 62273
+  },
+  {
+    "location": "Bhutan",
+    "date": "15/10/2020",
+    "total_cases": 316,
+    "total_deaths": "",
+    "population": 771612
+  },
+  {
+    "location": "Bolivia",
+    "date": "15/10/2020",
+    "total_cases": 139141,
+    "total_deaths": 8377,
+    "population": 11673029
+  },
+  {
+    "location": "Bonaire Sint Eustatius and Saba",
+    "date": "15/10/2020",
+    "total_cases": 150,
+    "total_deaths": 2,
+    "population": 26221
+  },
+  {
+    "location": "Bosnia and Herzegovina",
+    "date": "15/10/2020",
+    "total_cases": 31655,
+    "total_deaths": 958,
+    "population": 3280815
+  },
+  {
+    "location": "Botswana",
+    "date": "15/10/2020",
+    "total_cases": 5039,
+    "total_deaths": 20,
+    "population": 2351625
+  },
+  {
+    "location": "Brazil",
+    "date": "15/10/2020",
+    "total_cases": 5140863,
+    "total_deaths": 151747,
+    "population": 212559409
+  },
+  {
+    "location": "British Virgin Islands",
+    "date": "15/10/2020",
+    "total_cases": 71,
+    "total_deaths": 1,
+    "population": 30237
+  },
+  {
+    "location": "Brunei",
+    "date": "15/10/2020",
+    "total_cases": 147,
+    "total_deaths": 3,
+    "population": 437483
+  },
+  {
+    "location": "Bulgaria",
+    "date": "15/10/2020",
+    "total_cases": 26593,
+    "total_deaths": 929,
+    "population": 6948445
+  },
+  {
+    "location": "Burkina Faso",
+    "date": "15/10/2020",
+    "total_cases": 2305,
+    "total_deaths": 63,
+    "population": 20903278
+  },
+  {
+    "location": "Burundi",
+    "date": "15/10/2020",
+    "total_cases": 529,
+    "total_deaths": 1,
+    "population": 11890781
+  },
+  {
+    "location": "Cambodia",
+    "date": "15/10/2020",
+    "total_cases": 283,
+    "total_deaths": "",
+    "population": 16718971
+  },
+  {
+    "location": "Cameroon",
+    "date": "15/10/2020",
+    "total_cases": 21441,
+    "total_deaths": 423,
+    "population": 26545864
+  },
+  {
+    "location": "Canada",
+    "date": "15/10/2020",
+    "total_cases": 189387,
+    "total_deaths": 9664,
+    "population": 37742157
+  },
+  {
+    "location": "Cape Verde",
+    "date": "15/10/2020",
+    "total_cases": 7371,
+    "total_deaths": 79,
+    "population": 555988
+  },
+  {
+    "location": "Cayman Islands",
+    "date": "15/10/2020",
+    "total_cases": 225,
+    "total_deaths": 1,
+    "population": 65720
+  },
+  {
+    "location": "Central African Republic",
+    "date": "15/10/2020",
+    "total_cases": 4855,
+    "total_deaths": 62,
+    "population": 4829764
+  },
+  {
+    "location": "Chad",
+    "date": "15/10/2020",
+    "total_cases": 1329,
+    "total_deaths": 92,
+    "population": 16425859
+  },
+  {
+    "location": "Chile",
+    "date": "15/10/2020",
+    "total_cases": 485372,
+    "total_deaths": 13415,
+    "population": 19116209
+  },
+  {
+    "location": "China",
+    "date": "15/10/2020",
+    "total_cases": 90869,
+    "total_deaths": 4739,
+    "population": 1439323774
+  },
+  {
+    "location": "Colombia",
+    "date": "15/10/2020",
+    "total_cases": 930159,
+    "total_deaths": 28306,
+    "population": 50882884
+  },
+  {
+    "location": "Comoros",
+    "date": "15/10/2020",
+    "total_cases": 496,
+    "total_deaths": 7,
+    "population": 869595
+  },
+  {
+    "location": "Congo",
+    "date": "15/10/2020",
+    "total_cases": 5156,
+    "total_deaths": 92,
+    "population": 5518092
+  },
+  {
+    "location": "Costa Rica",
+    "date": "15/10/2020",
+    "total_cases": 91780,
+    "total_deaths": 1134,
+    "population": 5094114
+  },
+  {
+    "location": "Cote d'Ivoire",
+    "date": "15/10/2020",
+    "total_cases": 20217,
+    "total_deaths": 121,
+    "population": 26378275
+  },
+  {
+    "location": "Croatia",
+    "date": "15/10/2020",
+    "total_cases": 21741,
+    "total_deaths": 334,
+    "population": 4105268
+  },
+  {
+    "location": "Cuba",
+    "date": "15/10/2020",
+    "total_cases": 6035,
+    "total_deaths": 123,
+    "population": 11326616
+  },
+  {
+    "location": "Curacao",
+    "date": "15/10/2020",
+    "total_cases": 645,
+    "total_deaths": 1,
+    "population": 164100
+  },
+  {
+    "location": "Cyprus",
+    "date": "15/10/2020",
+    "total_cases": 2130,
+    "total_deaths": 25,
+    "population": 875899
+  },
+  {
+    "location": "Czech Republic",
+    "date": "15/10/2020",
+    "total_cases": 139290,
+    "total_deaths": 1172,
+    "population": 10708982
+  },
+  {
+    "location": "Democratic Republic of Congo",
+    "date": "15/10/2020",
+    "total_cases": 10934,
+    "total_deaths": 280,
+    "population": 89561404
+  },
+  {
+    "location": "Denmark",
+    "date": "15/10/2020",
+    "total_cases": 33593,
+    "total_deaths": 675,
+    "population": 5792203
+  },
+  {
+    "location": "Djibouti",
+    "date": "15/10/2020",
+    "total_cases": 5440,
+    "total_deaths": 61,
+    "population": 988002
+  },
+  {
+    "location": "Dominica",
+    "date": "15/10/2020",
+    "total_cases": 32,
+    "total_deaths": "",
+    "population": 71991
+  },
+  {
+    "location": "Dominican Republic",
+    "date": "15/10/2020",
+    "total_cases": 119662,
+    "total_deaths": 2186,
+    "population": 10847904
+  },
+  {
+    "location": "Ecuador",
+    "date": "15/10/2020",
+    "total_cases": 149083,
+    "total_deaths": 12264,
+    "population": 17643060
+  },
+  {
+    "location": "Egypt",
+    "date": "15/10/2020",
+    "total_cases": 104915,
+    "total_deaths": 6077,
+    "population": 102334403
+  },
+  {
+    "location": "El Salvador",
+    "date": "15/10/2020",
+    "total_cases": 30766,
+    "total_deaths": 904,
+    "population": 6486201
+  },
+  {
+    "location": "Equatorial Guinea",
+    "date": "15/10/2020",
+    "total_cases": 5068,
+    "total_deaths": 83,
+    "population": 1402985
+  },
+  {
+    "location": "Eritrea",
+    "date": "15/10/2020",
+    "total_cases": 414,
+    "total_deaths": "",
+    "population": 3546427
+  },
+  {
+    "location": "Estonia",
+    "date": "15/10/2020",
+    "total_cases": 3947,
+    "total_deaths": 68,
+    "population": 1326539
+  },
+  {
+    "location": "Ethiopia",
+    "date": "15/10/2020",
+    "total_cases": 86430,
+    "total_deaths": 1312,
+    "population": 114963583
+  },
+  {
+    "location": "Faeroe Islands",
+    "date": "15/10/2020",
+    "total_cases": 478,
+    "total_deaths": "",
+    "population": 48865
+  },
+  {
+    "location": "Falkland Islands",
+    "date": "15/10/2020",
+    "total_cases": 13,
+    "total_deaths": "",
+    "population": 3483
+  },
+  {
+    "location": "Fiji",
+    "date": "15/10/2020",
+    "total_cases": 32,
+    "total_deaths": 2,
+    "population": 896444
+  },
+  {
+    "location": "Finland",
+    "date": "15/10/2020",
+    "total_cases": 12703,
+    "total_deaths": 350,
+    "population": 5540718
+  },
+  {
+    "location": "France",
+    "date": "15/10/2020",
+    "total_cases": 779063,
+    "total_deaths": 33037,
+    "population": 65273512
+  },
+  {
+    "location": "French Polynesia",
+    "date": "15/10/2020",
+    "total_cases": 3511,
+    "total_deaths": 13,
+    "population": 280904
+  },
+  {
+    "location": "Gabon",
+    "date": "15/10/2020",
+    "total_cases": 8869,
+    "total_deaths": 54,
+    "population": 2225728
+  },
+  {
+    "location": "Gambia",
+    "date": "15/10/2020",
+    "total_cases": 3644,
+    "total_deaths": 118,
+    "population": 2416664
+  },
+  {
+    "location": "Georgia",
+    "date": "15/10/2020",
+    "total_cases": 13521,
+    "total_deaths": 109,
+    "population": 3989175
+  },
+  {
+    "location": "Germany",
+    "date": "15/10/2020",
+    "total_cases": 341223,
+    "total_deaths": 9710,
+    "population": 83783945
+  },
+  {
+    "location": "Ghana",
+    "date": "15/10/2020",
+    "total_cases": 47126,
+    "total_deaths": 310,
+    "population": 31072945
+  },
+  {
+    "location": "Gibraltar",
+    "date": "15/10/2020",
+    "total_cases": 516,
+    "total_deaths": "",
+    "population": 33691
+  },
+  {
+    "location": "Greece",
+    "date": "15/10/2020",
+    "total_cases": 23495,
+    "total_deaths": 469,
+    "population": 10423056
+  },
+  {
+    "location": "Greenland",
+    "date": "15/10/2020",
+    "total_cases": 16,
+    "total_deaths": "",
+    "population": 56772
+  },
+  {
+    "location": "Grenada",
+    "date": "15/10/2020",
+    "total_cases": 25,
+    "total_deaths": "",
+    "population": 112519
+  },
+  {
+    "location": "Guam",
+    "date": "15/10/2020",
+    "total_cases": 3341,
+    "total_deaths": 61,
+    "population": 168783
+  },
+  {
+    "location": "Guatemala",
+    "date": "15/10/2020",
+    "total_cases": 99094,
+    "total_deaths": 3430,
+    "population": 17915567
+  },
+  {
+    "location": "Guernsey",
+    "date": "15/10/2020",
+    "total_cases": 258,
+    "total_deaths": 13,
+    "population": 67052
+  },
+  {
+    "location": "Guinea",
+    "date": "15/10/2020",
+    "total_cases": 11188,
+    "total_deaths": 70,
+    "population": 13132792
+  },
+  {
+    "location": "Guinea-Bissau",
+    "date": "15/10/2020",
+    "total_cases": 2385,
+    "total_deaths": 40,
+    "population": 1967998
+  },
+  {
+    "location": "Guyana",
+    "date": "15/10/2020",
+    "total_cases": 3589,
+    "total_deaths": 106,
+    "population": 786559
+  },
+  {
+    "location": "Haiti",
+    "date": "15/10/2020",
+    "total_cases": 8908,
+    "total_deaths": 231,
+    "population": 11402533
+  },
+  {
+    "location": "Honduras",
+    "date": "15/10/2020",
+    "total_cases": 85458,
+    "total_deaths": 2533,
+    "population": 9904608
+  },
+  {
+    "location": "Hungary",
+    "date": "15/10/2020",
+    "total_cases": 41732,
+    "total_deaths": 1052,
+    "population": 9660350
+  },
+  {
+    "location": "Iceland",
+    "date": "15/10/2020",
+    "total_cases": 3757,
+    "total_deaths": 10,
+    "population": 341250
+  },
+  {
+    "location": "India",
+    "date": "15/10/2020",
+    "total_cases": 7307097,
+    "total_deaths": 111266,
+    "population": 1380004385
+  },
+  {
+    "location": "Indonesia",
+    "date": "15/10/2020",
+    "total_cases": 344749,
+    "total_deaths": 12156,
+    "population": 273523621
+  },
+  {
+    "location": "Iran",
+    "date": "15/10/2020",
+    "total_cases": 513219,
+    "total_deaths": 29349,
+    "population": 83992953
+  },
+  {
+    "location": "Iraq",
+    "date": "15/10/2020",
+    "total_cases": 413215,
+    "total_deaths": 10021,
+    "population": 40222503
+  },
+  {
+    "location": "Ireland",
+    "date": "15/10/2020",
+    "total_cases": 45243,
+    "total_deaths": 1835,
+    "population": 4937796
+  },
+  {
+    "location": "Isle of Man",
+    "date": "15/10/2020",
+    "total_cases": 348,
+    "total_deaths": 24,
+    "population": 85032
+  },
+  {
+    "location": "Israel",
+    "date": "15/10/2020",
+    "total_cases": 299253,
+    "total_deaths": 2099,
+    "population": 8655541
+  },
+  {
+    "location": "Italy",
+    "date": "15/10/2020",
+    "total_cases": 372799,
+    "total_deaths": 36289,
+    "population": 60461828
+  },
+  {
+    "location": "Jamaica",
+    "date": "15/10/2020",
+    "total_cases": 7989,
+    "total_deaths": 151,
+    "population": 2961161
+  },
+  {
+    "location": "Japan",
+    "date": "15/10/2020",
+    "total_cases": 90710,
+    "total_deaths": 1646,
+    "population": 126476458
+  },
+  {
+    "location": "Jersey",
+    "date": "15/10/2020",
+    "total_cases": 487,
+    "total_deaths": 32,
+    "population": 101073
+  },
+  {
+    "location": "Jordan",
+    "date": "15/10/2020",
+    "total_cases": 30550,
+    "total_deaths": 257,
+    "population": 10203140
+  },
+  {
+    "location": "Kazakhstan",
+    "date": "15/10/2020",
+    "total_cases": 144328,
+    "total_deaths": 2141,
+    "population": 18776707
+  },
+  {
+    "location": "Kenya",
+    "date": "15/10/2020",
+    "total_cases": 42541,
+    "total_deaths": 797,
+    "population": 53771300
+  },
+  {
+    "location": "Kosovo",
+    "date": "15/10/2020",
+    "total_cases": 16302,
+    "total_deaths": 639,
+    "population": 1932774
+  },
+  {
+    "location": "Kuwait",
+    "date": "15/10/2020",
+    "total_cases": 113269,
+    "total_deaths": 676,
+    "population": 4270563
+  },
+  {
+    "location": "Kyrgyzstan",
+    "date": "15/10/2020",
+    "total_cases": 50589,
+    "total_deaths": 1099,
+    "population": 6524191
+  },
+  {
+    "location": "Laos",
+    "date": "15/10/2020",
+    "total_cases": 23,
+    "total_deaths": "",
+    "population": 7275556
+  },
+  {
+    "location": "Latvia",
+    "date": "15/10/2020",
+    "total_cases": 2942,
+    "total_deaths": 41,
+    "population": 1886202
+  },
+  {
+    "location": "Lebanon",
+    "date": "15/10/2020",
+    "total_cases": 57246,
+    "total_deaths": 499,
+    "population": 6825442
+  },
+  {
+    "location": "Lesotho",
+    "date": "15/10/2020",
+    "total_cases": 1833,
+    "total_deaths": 42,
+    "population": 2142252
+  },
+  {
+    "location": "Liberia",
+    "date": "15/10/2020",
+    "total_cases": 1372,
+    "total_deaths": 82,
+    "population": 5057677
+  },
+  {
+    "location": "Libya",
+    "date": "15/10/2020",
+    "total_cases": 45821,
+    "total_deaths": 669,
+    "population": 6871287
+  },
+  {
+    "location": "Liechtenstein",
+    "date": "15/10/2020",
+    "total_cases": 155,
+    "total_deaths": 1,
+    "population": 38137
+  },
+  {
+    "location": "Lithuania",
+    "date": "15/10/2020",
+    "total_cases": 6505,
+    "total_deaths": 109,
+    "population": 2722291
+  },
+  {
+    "location": "Luxembourg",
+    "date": "15/10/2020",
+    "total_cases": 10030,
+    "total_deaths": 133,
+    "population": 625976
+  },
+  {
+    "location": "Macedonia",
+    "date": "15/10/2020",
+    "total_cases": 21636,
+    "total_deaths": 809,
+    "population": 2083380
+  },
+  {
+    "location": "Madagascar",
+    "date": "15/10/2020",
+    "total_cases": 16754,
+    "total_deaths": 237,
+    "population": 27691019
+  },
+  {
+    "location": "Malawi",
+    "date": "15/10/2020",
+    "total_cases": 5829,
+    "total_deaths": 181,
+    "population": 19129955
+  },
+  {
+    "location": "Malaysia",
+    "date": "15/10/2020",
+    "total_cases": 17540,
+    "total_deaths": 167,
+    "population": 32365998
+  },
+  {
+    "location": "Maldives",
+    "date": "15/10/2020",
+    "total_cases": 11062,
+    "total_deaths": 35,
+    "population": 540542
+  },
+  {
+    "location": "Mali",
+    "date": "15/10/2020",
+    "total_cases": 3352,
+    "total_deaths": 132,
+    "population": 20250834
+  },
+  {
+    "location": "Malta",
+    "date": "15/10/2020",
+    "total_cases": 4048,
+    "total_deaths": 44,
+    "population": 441539
+  },
+  {
+    "location": "Mauritania",
+    "date": "15/10/2020",
+    "total_cases": 7565,
+    "total_deaths": 163,
+    "population": 4649660
+  },
+  {
+    "location": "Mauritius",
+    "date": "15/10/2020",
+    "total_cases": 407,
+    "total_deaths": 10,
+    "population": 1271767
+  },
+  {
+    "location": "Mexico",
+    "date": "15/10/2020",
+    "total_cases": 845257,
+    "total_deaths": 84898,
+    "population": 128932753
+  },
+  {
+    "location": "Moldova",
+    "date": "15/10/2020",
+    "total_cases": 64424,
+    "total_deaths": 1514,
+    "population": 4033963
+  },
+  {
+    "location": "Monaco",
+    "date": "15/10/2020",
+    "total_cases": 248,
+    "total_deaths": 1,
+    "population": 39244
+  },
+  {
+    "location": "Mongolia",
+    "date": "15/10/2020",
+    "total_cases": 320,
+    "total_deaths": "",
+    "population": 3278292
+  },
+  {
+    "location": "Montenegro",
+    "date": "15/10/2020",
+    "total_cases": 14461,
+    "total_deaths": 217,
+    "population": 628062
+  },
+  {
+    "location": "Montserrat",
+    "date": "15/10/2020",
+    "total_cases": 13,
+    "total_deaths": 1,
+    "population": 4999
+  },
+  {
+    "location": "Morocco",
+    "date": "15/10/2020",
+    "total_cases": 160333,
+    "total_deaths": 2726,
+    "population": 36910558
+  },
+  {
+    "location": "Mozambique",
+    "date": "15/10/2020",
+    "total_cases": 10392,
+    "total_deaths": 73,
+    "population": 31255435
+  },
+  {
+    "location": "Myanmar",
+    "date": "15/10/2020",
+    "total_cases": 31325,
+    "total_deaths": 732,
+    "population": 54409794
+  },
+  {
+    "location": "Namibia",
+    "date": "15/10/2020",
+    "total_cases": 12069,
+    "total_deaths": 130,
+    "population": 2540916
+  },
+  {
+    "location": "Nepal",
+    "date": "15/10/2020",
+    "total_cases": 117996,
+    "total_deaths": 675,
+    "population": 29136808
+  },
+  {
+    "location": "Netherlands",
+    "date": "15/10/2020",
+    "total_cases": 195933,
+    "total_deaths": 6654,
+    "population": 17134873
+  },
+  {
+    "location": "New Caledonia",
+    "date": "15/10/2020",
+    "total_cases": 27,
+    "total_deaths": "",
+    "population": 285491
+  },
+  {
+    "location": "New Zealand",
+    "date": "15/10/2020",
+    "total_cases": 1520,
+    "total_deaths": 25,
+    "population": 4822233
+  },
+  {
+    "location": "Nicaragua",
+    "date": "15/10/2020",
+    "total_cases": 5353,
+    "total_deaths": 154,
+    "population": 6624554
+  },
+  {
+    "location": "Niger",
+    "date": "15/10/2020",
+    "total_cases": 1205,
+    "total_deaths": 69,
+    "population": 24206636
+  },
+  {
+    "location": "Nigeria",
+    "date": "15/10/2020",
+    "total_cases": 60834,
+    "total_deaths": 1116,
+    "population": 206139587
+  },
+  {
+    "location": "Northern Mariana Islands",
+    "date": "15/10/2020",
+    "total_cases": 77,
+    "total_deaths": 2,
+    "population": 57557
+  },
+  {
+    "location": "Norway",
+    "date": "15/10/2020",
+    "total_cases": 15791,
+    "total_deaths": 277,
+    "population": 5421242
+  },
+  {
+    "location": "Oman",
+    "date": "15/10/2020",
+    "total_cases": 107776,
+    "total_deaths": 1061,
+    "population": 5106622
+  },
+  {
+    "location": "Pakistan",
+    "date": "15/10/2020",
+    "total_cases": 321218,
+    "total_deaths": 6614,
+    "population": 220892331
+  },
+  {
+    "location": "Palestine",
+    "date": "15/10/2020",
+    "total_cases": 56999,
+    "total_deaths": 465,
+    "population": 5101416
+  },
+  {
+    "location": "Panama",
+    "date": "15/10/2020",
+    "total_cases": 122128,
+    "total_deaths": 2519,
+    "population": 4314768
+  },
+  {
+    "location": "Papua New Guinea",
+    "date": "15/10/2020",
+    "total_cases": 578,
+    "total_deaths": 7,
+    "population": 8947027
+  },
+  {
+    "location": "Paraguay",
+    "date": "15/10/2020",
+    "total_cases": 51845,
+    "total_deaths": 1131,
+    "population": 7132530
+  },
+  {
+    "location": "Peru",
+    "date": "15/10/2020",
+    "total_cases": 856951,
+    "total_deaths": 33512,
+    "population": 32971846
+  },
+  {
+    "location": "Philippines",
+    "date": "15/10/2020",
+    "total_cases": 346536,
+    "total_deaths": 6449,
+    "population": 109581085
+  },
+  {
+    "location": "Poland",
+    "date": "15/10/2020",
+    "total_cases": 141804,
+    "total_deaths": 3217,
+    "population": 37846605
+  },
+  {
+    "location": "Portugal",
+    "date": "15/10/2020",
+    "total_cases": 91193,
+    "total_deaths": 2117,
+    "population": 10196707
+  },
+  {
+    "location": "Puerto Rico",
+    "date": "15/10/2020",
+    "total_cases": 55516,
+    "total_deaths": 742,
+    "population": 2860840
+  },
+  {
+    "location": "Qatar",
+    "date": "15/10/2020",
+    "total_cases": 128603,
+    "total_deaths": 220,
+    "population": 2881060
+  },
+  {
+    "location": "Romania",
+    "date": "15/10/2020",
+    "total_cases": 164477,
+    "total_deaths": 5601,
+    "population": 19237682
+  },
+  {
+    "location": "Russia",
+    "date": "15/10/2020",
+    "total_cases": 1340409,
+    "total_deaths": 23205,
+    "population": 145934460
+  },
+  {
+    "location": "Rwanda",
+    "date": "15/10/2020",
+    "total_cases": 4940,
+    "total_deaths": 33,
+    "population": 12952209
+  },
+  {
+    "location": "Saint Kitts and Nevis",
+    "date": "15/10/2020",
+    "total_cases": 19,
+    "total_deaths": "",
+    "population": 53192
+  },
+  {
+    "location": "Saint Lucia",
+    "date": "15/10/2020",
+    "total_cases": 31,
+    "total_deaths": "",
+    "population": 183629
+  },
+  {
+    "location": "Saint Vincent and the Grenadines",
+    "date": "15/10/2020",
+    "total_cases": 64,
+    "total_deaths": "",
+    "population": 110947
+  },
+  {
+    "location": "San Marino",
+    "date": "15/10/2020",
+    "total_cases": 752,
+    "total_deaths": 42,
+    "population": 33938
+  },
+  {
+    "location": "Sao Tome and Principe",
+    "date": "15/10/2020",
+    "total_cases": 929,
+    "total_deaths": 15,
+    "population": 219161
+  },
+  {
+    "location": "Saudi Arabia",
+    "date": "15/10/2020",
+    "total_cases": 340590,
+    "total_deaths": 5108,
+    "population": 34813867
+  },
+  {
+    "location": "Senegal",
+    "date": "15/10/2020",
+    "total_cases": 15331,
+    "total_deaths": 316,
+    "population": 16743930
+  },
+  {
+    "location": "Serbia",
+    "date": "15/10/2020",
+    "total_cases": 35251,
+    "total_deaths": 768,
+    "population": 6804596
+  },
+  {
+    "location": "Seychelles",
+    "date": "15/10/2020",
+    "total_cases": 148,
+    "total_deaths": "",
+    "population": 98340
+  },
+  {
+    "location": "Sierra Leone",
+    "date": "15/10/2020",
+    "total_cases": 2315,
+    "total_deaths": 73,
+    "population": 7976985
+  },
+  {
+    "location": "Singapore",
+    "date": "15/10/2020",
+    "total_cases": 57889,
+    "total_deaths": 28,
+    "population": 5850343
+  },
+  {
+    "location": "Sint Maarten (Dutch part)",
+    "date": "15/10/2020",
+    "total_cases": 729,
+    "total_deaths": 22,
+    "population": 42882
+  },
+  {
+    "location": "Slovakia",
+    "date": "15/10/2020",
+    "total_cases": 22296,
+    "total_deaths": 66,
+    "population": 5459643
+  },
+  {
+    "location": "Slovenia",
+    "date": "15/10/2020",
+    "total_cases": 9938,
+    "total_deaths": 148,
+    "population": 2078932
+  },
+  {
+    "location": "Somalia",
+    "date": "15/10/2020",
+    "total_cases": 3864,
+    "total_deaths": 99,
+    "population": 15893219
+  },
+  {
+    "location": "South Africa",
+    "date": "15/10/2020",
+    "total_cases": 696414,
+    "total_deaths": 18151,
+    "population": 59308690
+  },
+  {
+    "location": "South Korea",
+    "date": "15/10/2020",
+    "total_cases": 24988,
+    "total_deaths": 439,
+    "population": 51269183
+  },
+  {
+    "location": "South Sudan",
+    "date": "15/10/2020",
+    "total_cases": 2798,
+    "total_deaths": 55,
+    "population": 11193729
+  },
+  {
+    "location": "Spain",
+    "date": "15/10/2020",
+    "total_cases": 921374,
+    "total_deaths": 33553,
+    "population": 46754783
+  },
+  {
+    "location": "Sri Lanka",
+    "date": "15/10/2020",
+    "total_cases": 5170,
+    "total_deaths": 13,
+    "population": 21413250
+  },
+  {
+    "location": "Sudan",
+    "date": "15/10/2020",
+    "total_cases": 13691,
+    "total_deaths": 836,
+    "population": 43849269
+  },
+  {
+    "location": "Suriname",
+    "date": "15/10/2020",
+    "total_cases": 5083,
+    "total_deaths": 108,
+    "population": 586634
+  },
+  {
+    "location": "Swaziland",
+    "date": "15/10/2020",
+    "total_cases": 5715,
+    "total_deaths": 114,
+    "population": 1160164
+  },
+  {
+    "location": "Sweden",
+    "date": "15/10/2020",
+    "total_cases": 102604,
+    "total_deaths": 5917,
+    "population": 10099270
+  },
+  {
+    "location": "Switzerland",
+    "date": "15/10/2020",
+    "total_cases": 68450,
+    "total_deaths": 1814,
+    "population": 8654618
+  },
+  {
+    "location": "Syria",
+    "date": "15/10/2020",
+    "total_cases": 4883,
+    "total_deaths": 234,
+    "population": 17500657
+  },
+  {
+    "location": "Taiwan",
+    "date": "15/10/2020",
+    "total_cases": 530,
+    "total_deaths": 7,
+    "population": 23816775
+  },
+  {
+    "location": "Tajikistan",
+    "date": "15/10/2020",
+    "total_cases": 10336,
+    "total_deaths": 79,
+    "population": 9537642
+  },
+  {
+    "location": "Tanzania",
+    "date": "15/10/2020",
+    "total_cases": 509,
+    "total_deaths": 21,
+    "population": 59734213
+  },
+  {
+    "location": "Thailand",
+    "date": "15/10/2020",
+    "total_cases": 3665,
+    "total_deaths": 59,
+    "population": 69799978
+  },
+  {
+    "location": "Timor",
+    "date": "15/10/2020",
+    "total_cases": 29,
+    "total_deaths": "",
+    "population": 1318442
+  },
+  {
+    "location": "Togo",
+    "date": "15/10/2020",
+    "total_cases": 1983,
+    "total_deaths": 51,
+    "population": 8278737
+  },
+  {
+    "location": "Trinidad and Tobago",
+    "date": "15/10/2020",
+    "total_cases": 5154,
+    "total_deaths": 93,
+    "population": 1399491
+  },
+  {
+    "location": "Tunisia",
+    "date": "15/10/2020",
+    "total_cases": 34790,
+    "total_deaths": 512,
+    "population": 11818618
+  },
+  {
+    "location": "Turkey",
+    "date": "15/10/2020",
+    "total_cases": 340450,
+    "total_deaths": 9014,
+    "population": 84339067
+  },
+  {
+    "location": "Turks and Caicos Islands",
+    "date": "15/10/2020",
+    "total_cases": 696,
+    "total_deaths": 6,
+    "population": 38718
+  },
+  {
+    "location": "Uganda",
+    "date": "15/10/2020",
+    "total_cases": 10069,
+    "total_deaths": 95,
+    "population": 45741000
+  },
+  {
+    "location": "Ukraine",
+    "date": "15/10/2020",
+    "total_cases": 276177,
+    "total_deaths": 5229,
+    "population": 43733759
+  },
+  {
+    "location": "United Arab Emirates",
+    "date": "15/10/2020",
+    "total_cases": 110039,
+    "total_deaths": 450,
+    "population": 9890400
+  },
+  {
+    "location": "United Kingdom",
+    "date": "15/10/2020",
+    "total_cases": 654644,
+    "total_deaths": 43155,
+    "population": 67886004
+  },
+  {
+    "location": "United States",
+    "date": "15/10/2020",
+    "total_cases": 7916100,
+    "total_deaths": 216872,
+    "population": 331002647
+  },
+  {
+    "location": "United States Virgin Islands",
+    "date": "15/10/2020",
+    "total_cases": 1328,
+    "total_deaths": 20,
+    "population": 104423
+  },
+  {
+    "location": "Uruguay",
+    "date": "15/10/2020",
+    "total_cases": 2338,
+    "total_deaths": 51,
+    "population": 3473727
+  },
+  {
+    "location": "Uzbekistan",
+    "date": "15/10/2020",
+    "total_cases": 62175,
+    "total_deaths": 516,
+    "population": 33469199
+  },
+  {
+    "location": "Vatican",
+    "date": "15/10/2020",
+    "total_cases": 19,
+    "total_deaths": "",
+    "population": 809
+  },
+  {
+    "location": "Venezuela",
+    "date": "15/10/2020",
+    "total_cases": 85005,
+    "total_deaths": 714,
+    "population": 28435943
+  },
+  {
+    "location": "Vietnam",
+    "date": "15/10/2020",
+    "total_cases": 1122,
+    "total_deaths": 35,
+    "population": 97338583
+  },
+  {
+    "location": "Western Sahara",
+    "date": "15/10/2020",
+    "total_cases": 766,
+    "total_deaths": 1,
+    "population": 597330
+  },
+  {
+    "location": "Yemen",
+    "date": "15/10/2020",
+    "total_cases": 2057,
+    "total_deaths": 597,
+    "population": 29825968
+  },
+  {
+    "location": "Zambia",
+    "date": "15/10/2020",
+    "total_cases": 15616,
+    "total_deaths": 345,
+    "population": 18383956
+  },
+  {
+    "location": "Zimbabwe",
+    "date": "15/10/2020",
+    "total_cases": 8055,
+    "total_deaths": 231,
+    "population": 14862927
+  },
+  {
+    "location": "World",
+    "date": "15/10/2020",
+    "total_cases": 38635231,
+    "total_deaths": 1093338,
+    "population": 7794798729
+  },
+  {
+    "location": "International",
+    "date": "15/10/2020",
+    "total_cases": 696,
+    "total_deaths": 7,
+    "population": ""
+  }
+]
