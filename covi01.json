@@ -1,0 +1,2352 @@
+[
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AF",
+    "Country": "Afghanistan",
+    "WHO_region": "EMRO",
+    "New_cases": 66,
+    "Cumulative_cases": 39994,
+    "New_deaths": 1,
+    "Cumulative_deaths": 1481
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AL",
+    "Country": "Albania",
+    "WHO_region": "EURO",
+    "New_cases": 203,
+    "Cumulative_cases": 15955,
+    "New_deaths": 5,
+    "Cumulative_deaths": 434
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DZ",
+    "Country": "Algeria",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 53399,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1818
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AS",
+    "Country": "American Samoa",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AD",
+    "Country": "Andorra",
+    "WHO_region": "EURO",
+    "New_cases": 195,
+    "Cumulative_cases": 3190,
+    "New_deaths": 2,
+    "Cumulative_deaths": 59
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AO",
+    "Country": "Angola",
+    "WHO_region": "AFRO",
+    "New_cases": 166,
+    "Cumulative_cases": 6846,
+    "New_deaths": 5,
+    "Cumulative_deaths": 227
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AI",
+    "Country": "Anguilla",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 3,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AG",
+    "Country": "Antigua and Barbuda",
+    "WHO_region": "AMRO",
+    "New_cases": 1,
+    "Cumulative_cases": 112,
+    "New_deaths": 0,
+    "Cumulative_deaths": 3
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AR",
+    "Country": "Argentina",
+    "WHO_region": "AMRO",
+    "New_cases": 13305,
+    "Cumulative_cases": 917035,
+    "New_deaths": 386,
+    "Cumulative_deaths": 24572
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AM",
+    "Country": "Armenia",
+    "WHO_region": "EURO",
+    "New_cases": 1371,
+    "Cumulative_cases": 59995,
+    "New_deaths": 7,
+    "Cumulative_deaths": 1046
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AW",
+    "Country": "Aruba",
+    "WHO_region": "AMRO",
+    "New_cases": 32,
+    "Cumulative_cases": 4229,
+    "New_deaths": 0,
+    "Cumulative_deaths": 32
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AU",
+    "Country": "Australia",
+    "WHO_region": "WPRO",
+    "New_cases": 24,
+    "Cumulative_cases": 27341,
+    "New_deaths": 5,
+    "Cumulative_deaths": 904
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AT",
+    "Country": "Austria",
+    "WHO_region": "EURO",
+    "New_cases": 1606,
+    "Cumulative_cases": 59368,
+    "New_deaths": 9,
+    "Cumulative_deaths": 888
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AZ",
+    "Country": "Azerbaijan",
+    "WHO_region": "EURO",
+    "New_cases": 369,
+    "Cumulative_cases": 42750,
+    "New_deaths": 4,
+    "Cumulative_deaths": 616
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BS",
+    "Country": "Bahamas",
+    "WHO_region": "AMRO",
+    "New_cases": 28,
+    "Cumulative_cases": 5191,
+    "New_deaths": 1,
+    "Cumulative_deaths": 109
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BH",
+    "Country": "Bahrain",
+    "WHO_region": "EMRO",
+    "New_cases": 349,
+    "Cumulative_cases": 76621,
+    "New_deaths": 2,
+    "Cumulative_deaths": 287
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BD",
+    "Country": "Bangladesh",
+    "WHO_region": "SEARO",
+    "New_cases": 1684,
+    "Cumulative_cases": 382959,
+    "New_deaths": 16,
+    "Cumulative_deaths": 5593
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BB",
+    "Country": "Barbados",
+    "WHO_region": "AMRO",
+    "New_cases": 2,
+    "Cumulative_cases": 210,
+    "New_deaths": 0,
+    "Cumulative_deaths": 7
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BY",
+    "Country": "Belarus",
+    "WHO_region": "EURO",
+    "New_cases": 597,
+    "Cumulative_cases": 85121,
+    "New_deaths": 5,
+    "Cumulative_deaths": 911
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BE",
+    "Country": "Belgium",
+    "WHO_region": "EURO",
+    "New_cases": 6878,
+    "Cumulative_cases": 200609,
+    "New_deaths": 41,
+    "Cumulative_deaths": 10324
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BZ",
+    "Country": "Belize",
+    "WHO_region": "AMRO",
+    "New_cases": 16,
+    "Cumulative_cases": 2585,
+    "New_deaths": 2,
+    "Cumulative_deaths": 39
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BJ",
+    "Country": "Benin",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 2496,
+    "New_deaths": 0,
+    "Cumulative_deaths": 41
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BM",
+    "Country": "Bermuda",
+    "WHO_region": "AMRO",
+    "New_cases": 1,
+    "Cumulative_cases": 185,
+    "New_deaths": 0,
+    "Cumulative_deaths": 9
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BT",
+    "Country": "Bhutan",
+    "WHO_region": "SEARO",
+    "New_cases": 3,
+    "Cumulative_cases": 316,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BO",
+    "Country": "Bolivia (Plurinational State of)",
+    "WHO_region": "AMRO",
+    "New_cases": 227,
+    "Cumulative_cases": 138922,
+    "New_deaths": 25,
+    "Cumulative_deaths": 8351
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BQ",
+    "Country": "Bonaire, Sint Eustatius and Saba",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 150,
+    "New_deaths": 0,
+    "Cumulative_deaths": 2
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BA",
+    "Country": "Bosnia and Herzegovina",
+    "WHO_region": "EURO",
+    "New_cases": 479,
+    "Cumulative_cases": 31652,
+    "New_deaths": 12,
+    "Cumulative_deaths": 955
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BW",
+    "Country": "Botswana",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 5039,
+    "New_deaths": 0,
+    "Cumulative_deaths": 20
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BR",
+    "Country": "Brazil",
+    "WHO_region": "AMRO",
+    "New_cases": 10220,
+    "Cumulative_cases": 5113628,
+    "New_deaths": 309,
+    "Cumulative_deaths": 150998
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VG",
+    "Country": "British Virgin Islands",
+    "WHO_region": "AMRO",
+    "New_cases": 1,
+    "Cumulative_cases": 72,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BN",
+    "Country": "Brunei Darussalam",
+    "WHO_region": "WPRO",
+    "New_cases": 1,
+    "Cumulative_cases": 147,
+    "New_deaths": 0,
+    "Cumulative_deaths": 3
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BG",
+    "Country": "Bulgaria",
+    "WHO_region": "EURO",
+    "New_cases": 819,
+    "Cumulative_cases": 26593,
+    "New_deaths": 6,
+    "Cumulative_deaths": 929
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BF",
+    "Country": "Burkina Faso",
+    "WHO_region": "AFRO",
+    "New_cases": 14,
+    "Cumulative_cases": 2294,
+    "New_deaths": 0,
+    "Cumulative_deaths": 63
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BI",
+    "Country": "Burundi",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 529,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CV",
+    "Country": "Cabo Verde",
+    "WHO_region": "AFRO",
+    "New_cases": 117,
+    "Cumulative_cases": 7371,
+    "New_deaths": 2,
+    "Cumulative_deaths": 79
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KH",
+    "Country": "Cambodia",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 283,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CM",
+    "Country": "Cameroon",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 21441,
+    "New_deaths": 0,
+    "Cumulative_deaths": 423
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CA",
+    "Country": "Canada",
+    "WHO_region": "AMRO",
+    "New_cases": 4042,
+    "Cumulative_cases": 186881,
+    "New_deaths": 27,
+    "Cumulative_deaths": 9654
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KY",
+    "Country": "Cayman Islands",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 221,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CF",
+    "Country": "Central African Republic",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 4855,
+    "New_deaths": 0,
+    "Cumulative_deaths": 62
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TD",
+    "Country": "Chad",
+    "WHO_region": "AFRO",
+    "New_cases": 8,
+    "Cumulative_cases": 1329,
+    "New_deaths": 0,
+    "Cumulative_deaths": 92
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CL",
+    "Country": "Chile",
+    "WHO_region": "AMRO",
+    "New_cases": 1092,
+    "Cumulative_cases": 485372,
+    "New_deaths": 19,
+    "Cumulative_deaths": 13415
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CN",
+    "Country": "China",
+    "WHO_region": "WPRO",
+    "New_cases": 11,
+    "Cumulative_cases": 91399,
+    "New_deaths": 0,
+    "Cumulative_deaths": 4746
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CO",
+    "Country": "Colombia",
+    "WHO_region": "AMRO",
+    "New_cases": 5015,
+    "Cumulative_cases": 924098,
+    "New_deaths": 156,
+    "Cumulative_deaths": 28141
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KM",
+    "Country": "Comoros",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 496,
+    "New_deaths": 0,
+    "Cumulative_deaths": 7
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CG",
+    "Country": "Congo",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 5156,
+    "New_deaths": 0,
+    "Cumulative_deaths": 92
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CK",
+    "Country": "Cook Islands",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CR",
+    "Country": "Costa Rica",
+    "WHO_region": "AMRO",
+    "New_cases": 1015,
+    "Cumulative_cases": 90238,
+    "New_deaths": 16,
+    "Cumulative_deaths": 1124
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CI",
+    "Country": "Côte d’Ivoire",
+    "WHO_region": "AFRO",
+    "New_cases": 34,
+    "Cumulative_cases": 20217,
+    "New_deaths": 1,
+    "Cumulative_deaths": 121
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "HR",
+    "Country": "Croatia",
+    "WHO_region": "EURO",
+    "New_cases": 748,
+    "Cumulative_cases": 21741,
+    "New_deaths": 4,
+    "Cumulative_deaths": 334
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CU",
+    "Country": "Cuba",
+    "WHO_region": "AMRO",
+    "New_cases": 18,
+    "Cumulative_cases": 6035,
+    "New_deaths": 0,
+    "Cumulative_deaths": 123
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CW",
+    "Country": "Curaçao",
+    "WHO_region": "AMRO",
+    "New_cases": 34,
+    "Cumulative_cases": 619,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CY",
+    "Country": "Cyprus",
+    "WHO_region": "EURO",
+    "New_cases": 83,
+    "Cumulative_cases": 2130,
+    "New_deaths": 0,
+    "Cumulative_deaths": 25
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CZ",
+    "Country": "Czechia",
+    "WHO_region": "EURO",
+    "New_cases": 9543,
+    "Cumulative_cases": 139290,
+    "New_deaths": 66,
+    "Cumulative_deaths": 1172
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KP",
+    "Country": "Democratic People's Republic of Korea",
+    "WHO_region": "SEARO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CD",
+    "Country": "Democratic Republic of the Congo",
+    "WHO_region": "AFRO",
+    "New_cases": 63,
+    "Cumulative_cases": 10934,
+    "New_deaths": 5,
+    "Cumulative_deaths": 281
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DK",
+    "Country": "Denmark",
+    "WHO_region": "EURO",
+    "New_cases": 492,
+    "Cumulative_cases": 33593,
+    "New_deaths": 1,
+    "Cumulative_deaths": 675
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DJ",
+    "Country": "Djibouti",
+    "WHO_region": "EMRO",
+    "New_cases": 12,
+    "Cumulative_cases": 5440,
+    "New_deaths": 0,
+    "Cumulative_deaths": 61
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DM",
+    "Country": "Dominica",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 32,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DO",
+    "Country": "Dominican Republic",
+    "WHO_region": "AMRO",
+    "New_cases": 654,
+    "Cumulative_cases": 119662,
+    "New_deaths": 3,
+    "Cumulative_deaths": 2186
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "EC",
+    "Country": "Ecuador",
+    "WHO_region": "AMRO",
+    "New_cases": 912,
+    "Cumulative_cases": 149083,
+    "New_deaths": 29,
+    "Cumulative_deaths": 12264
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "EG",
+    "Country": "Egypt",
+    "WHO_region": "EMRO",
+    "New_cases": 128,
+    "Cumulative_cases": 104915,
+    "New_deaths": 6,
+    "Cumulative_deaths": 6077
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SV",
+    "Country": "El Salvador",
+    "WHO_region": "AMRO",
+    "New_cases": 286,
+    "Cumulative_cases": 30766,
+    "New_deaths": 5,
+    "Cumulative_deaths": 904
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GQ",
+    "Country": "Equatorial Guinea",
+    "WHO_region": "AFRO",
+    "New_cases": 2,
+    "Cumulative_cases": 5068,
+    "New_deaths": 0,
+    "Cumulative_deaths": 83
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ER",
+    "Country": "Eritrea",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 414,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "EE",
+    "Country": "Estonia",
+    "WHO_region": "EURO",
+    "New_cases": 39,
+    "Cumulative_cases": 3947,
+    "New_deaths": 0,
+    "Cumulative_deaths": 68
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SZ",
+    "Country": "Eswatini",
+    "WHO_region": "AFRO",
+    "New_cases": 19,
+    "Cumulative_cases": 5715,
+    "New_deaths": 0,
+    "Cumulative_deaths": 114
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ET",
+    "Country": "Ethiopia",
+    "WHO_region": "AFRO",
+    "New_cases": 712,
+    "Cumulative_cases": 86430,
+    "New_deaths": 7,
+    "Cumulative_deaths": 1312
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FK",
+    "Country": "Falkland Islands (Malvinas)",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 13,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FO",
+    "Country": "Faroe Islands",
+    "WHO_region": "EURO",
+    "New_cases": 1,
+    "Cumulative_cases": 478,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FJ",
+    "Country": "Fiji",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 32,
+    "New_deaths": 0,
+    "Cumulative_deaths": 2
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FI",
+    "Country": "Finland",
+    "WHO_region": "EURO",
+    "New_cases": 204,
+    "Cumulative_cases": 12703,
+    "New_deaths": 4,
+    "Cumulative_deaths": 350
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FR",
+    "Country": "France",
+    "WHO_region": "EURO",
+    "New_cases": 21706,
+    "Cumulative_cases": 750451,
+    "New_deaths": 101,
+    "Cumulative_deaths": 32780
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GF",
+    "Country": "French Guiana",
+    "WHO_region": "AMRO",
+    "New_cases": 10,
+    "Cumulative_cases": 10202,
+    "New_deaths": 0,
+    "Cumulative_deaths": 69
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PF",
+    "Country": "French Polynesia",
+    "WHO_region": "WPRO",
+    "New_cases": 322,
+    "Cumulative_cases": 3573,
+    "New_deaths": 2,
+    "Cumulative_deaths": 13
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GA",
+    "Country": "Gabon",
+    "WHO_region": "AFRO",
+    "New_cases": 9,
+    "Cumulative_cases": 8869,
+    "New_deaths": 0,
+    "Cumulative_deaths": 54
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GM",
+    "Country": "Gambia",
+    "WHO_region": "AFRO",
+    "New_cases": 8,
+    "Cumulative_cases": 3644,
+    "New_deaths": 0,
+    "Cumulative_deaths": 118
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GE",
+    "Country": "Georgia",
+    "WHO_region": "EURO",
+    "New_cases": 919,
+    "Cumulative_cases": 14440,
+    "New_deaths": 4,
+    "Cumulative_deaths": 113
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "DE",
+    "Country": "Germany",
+    "WHO_region": "EURO",
+    "New_cases": 6638,
+    "Cumulative_cases": 341223,
+    "New_deaths": 33,
+    "Cumulative_deaths": 9710
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GH",
+    "Country": "Ghana",
+    "WHO_region": "AFRO",
+    "New_cases": 29,
+    "Cumulative_cases": 47126,
+    "New_deaths": 2,
+    "Cumulative_deaths": 310
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GI",
+    "Country": "Gibraltar",
+    "WHO_region": "EURO",
+    "New_cases": 13,
+    "Cumulative_cases": 499,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GR",
+    "Country": "Greece",
+    "WHO_region": "EURO",
+    "New_cases": 435,
+    "Cumulative_cases": 23495,
+    "New_deaths": 7,
+    "Cumulative_deaths": 469
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GL",
+    "Country": "Greenland",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 16,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GD",
+    "Country": "Grenada",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 25,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GP",
+    "Country": "Guadeloupe",
+    "WHO_region": "AMRO",
+    "New_cases": 425,
+    "Cumulative_cases": 6908,
+    "New_deaths": 1,
+    "Cumulative_deaths": 96
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GU",
+    "Country": "Guam",
+    "WHO_region": "WPRO",
+    "New_cases": 75,
+    "Cumulative_cases": 3341,
+    "New_deaths": 0,
+    "Cumulative_deaths": 61
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GT",
+    "Country": "Guatemala",
+    "WHO_region": "AMRO",
+    "New_cases": 714,
+    "Cumulative_cases": 99094,
+    "New_deaths": 20,
+    "Cumulative_deaths": 3430
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GG",
+    "Country": "Guernsey",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 258,
+    "New_deaths": 0,
+    "Cumulative_deaths": 13
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GN",
+    "Country": "Guinea",
+    "WHO_region": "AFRO",
+    "New_cases": 54,
+    "Cumulative_cases": 11188,
+    "New_deaths": 0,
+    "Cumulative_deaths": 70
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GW",
+    "Country": "Guinea-Bissau",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 2385,
+    "New_deaths": 0,
+    "Cumulative_deaths": 40
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GY",
+    "Country": "Guyana",
+    "WHO_region": "AMRO",
+    "New_cases": 44,
+    "Cumulative_cases": 3565,
+    "New_deaths": 2,
+    "Cumulative_deaths": 106
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "HT",
+    "Country": "Haiti",
+    "WHO_region": "AMRO",
+    "New_cases": 21,
+    "Cumulative_cases": 8908,
+    "New_deaths": 1,
+    "Cumulative_deaths": 231
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VA",
+    "Country": "Holy See",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 19,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "HN",
+    "Country": "Honduras",
+    "WHO_region": "AMRO",
+    "New_cases": 439,
+    "Cumulative_cases": 84852,
+    "New_deaths": 7,
+    "Cumulative_deaths": 2528
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "HU",
+    "Country": "Hungary",
+    "WHO_region": "EURO",
+    "New_cases": 950,
+    "Cumulative_cases": 41732,
+    "New_deaths": 29,
+    "Cumulative_deaths": 1052
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IS",
+    "Country": "Iceland",
+    "WHO_region": "EURO",
+    "New_cases": 89,
+    "Cumulative_cases": 3757,
+    "New_deaths": 0,
+    "Cumulative_deaths": 10
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IN",
+    "Country": "India",
+    "WHO_region": "SEARO",
+    "New_cases": 67708,
+    "Cumulative_cases": 7307097,
+    "New_deaths": 680,
+    "Cumulative_deaths": 111266
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ID",
+    "Country": "Indonesia",
+    "WHO_region": "SEARO",
+    "New_cases": 4127,
+    "Cumulative_cases": 344749,
+    "New_deaths": 129,
+    "Cumulative_deaths": 12156
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IR",
+    "Country": "Iran (Islamic Republic of)",
+    "WHO_region": "EMRO",
+    "New_cases": 4830,
+    "Cumulative_cases": 513219,
+    "New_deaths": 279,
+    "Cumulative_deaths": 29349
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IQ",
+    "Country": "Iraq",
+    "WHO_region": "EMRO",
+    "New_cases": 3857,
+    "Cumulative_cases": 413215,
+    "New_deaths": 51,
+    "Cumulative_deaths": 10021
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IE",
+    "Country": "Ireland",
+    "WHO_region": "EURO",
+    "New_cases": 1084,
+    "Cumulative_cases": 45243,
+    "New_deaths": 5,
+    "Cumulative_deaths": 1835
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IM",
+    "Country": "Isle of Man",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 346,
+    "New_deaths": 0,
+    "Cumulative_deaths": 24
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IL",
+    "Country": "Israel",
+    "WHO_region": "EURO",
+    "New_cases": 2410,
+    "Cumulative_cases": 297278,
+    "New_deaths": 34,
+    "Cumulative_deaths": 2085
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "IT",
+    "Country": "Italy",
+    "WHO_region": "EURO",
+    "New_cases": 7332,
+    "Cumulative_cases": 372799,
+    "New_deaths": 43,
+    "Cumulative_deaths": 36289
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "JM",
+    "Country": "Jamaica",
+    "WHO_region": "AMRO",
+    "New_cases": 79,
+    "Cumulative_cases": 7989,
+    "New_deaths": 5,
+    "Cumulative_deaths": 151
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "JP",
+    "Country": "Japan",
+    "WHO_region": "WPRO",
+    "New_cases": 570,
+    "Cumulative_cases": 90710,
+    "New_deaths": 8,
+    "Cumulative_deaths": 1646
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "JE",
+    "Country": "Jersey",
+    "WHO_region": "EURO",
+    "New_cases": 5,
+    "Cumulative_cases": 484,
+    "New_deaths": 0,
+    "Cumulative_deaths": 32
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "JO",
+    "Country": "Jordan",
+    "WHO_region": "EMRO",
+    "New_cases": 2423,
+    "Cumulative_cases": 30550,
+    "New_deaths": 32,
+    "Cumulative_deaths": 257
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KZ",
+    "Country": "Kazakhstan",
+    "WHO_region": "EURO",
+    "New_cases": 274,
+    "Cumulative_cases": 144761,
+    "New_deaths": 0,
+    "Cumulative_deaths": 2136
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KE",
+    "Country": "Kenya",
+    "WHO_region": "AFRO",
+    "New_cases": 602,
+    "Cumulative_cases": 42541,
+    "New_deaths": 10,
+    "Cumulative_deaths": 797
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KI",
+    "Country": "Kiribati",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "XK",
+    "Country": "Kosovo[1]",
+    "WHO_region": "EURO",
+    "New_cases": 80,
+    "Cumulative_cases": 16382,
+    "New_deaths": 1,
+    "Cumulative_deaths": 640
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KW",
+    "Country": "Kuwait",
+    "WHO_region": "EMRO",
+    "New_cases": 532,
+    "Cumulative_cases": 113269,
+    "New_deaths": 4,
+    "Cumulative_deaths": 676
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KG",
+    "Country": "Kyrgyzstan",
+    "WHO_region": "EURO",
+    "New_cases": 388,
+    "Cumulative_cases": 50589,
+    "New_deaths": 5,
+    "Cumulative_deaths": 1099
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LA",
+    "Country": "Lao People's Democratic Republic",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 23,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LV",
+    "Country": "Latvia",
+    "WHO_region": "EURO",
+    "New_cases": 102,
+    "Cumulative_cases": 2942,
+    "New_deaths": 0,
+    "Cumulative_deaths": 41
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LB",
+    "Country": "Lebanon",
+    "WHO_region": "EMRO",
+    "New_cases": 1377,
+    "Cumulative_cases": 57246,
+    "New_deaths": 20,
+    "Cumulative_deaths": 499
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LS",
+    "Country": "Lesotho",
+    "WHO_region": "AFRO",
+    "New_cases": 28,
+    "Cumulative_cases": 1833,
+    "New_deaths": 0,
+    "Cumulative_deaths": 42
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LR",
+    "Country": "Liberia",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 1372,
+    "New_deaths": 0,
+    "Cumulative_deaths": 82
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LY",
+    "Country": "Libya",
+    "WHO_region": "EMRO",
+    "New_cases": 836,
+    "Cumulative_cases": 45821,
+    "New_deaths": 13,
+    "Cumulative_deaths": 669
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LI",
+    "Country": "Liechtenstein",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 155,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LT",
+    "Country": "Lithuania",
+    "WHO_region": "EURO",
+    "New_cases": 139,
+    "Cumulative_cases": 6505,
+    "New_deaths": 3,
+    "Cumulative_deaths": 109
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LU",
+    "Country": "Luxembourg",
+    "WHO_region": "EURO",
+    "New_cases": 190,
+    "Cumulative_cases": 10030,
+    "New_deaths": 0,
+    "Cumulative_deaths": 133
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MG",
+    "Country": "Madagascar",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 16754,
+    "New_deaths": 0,
+    "Cumulative_deaths": 237
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MW",
+    "Country": "Malawi",
+    "WHO_region": "AFRO",
+    "New_cases": 2,
+    "Cumulative_cases": 5829,
+    "New_deaths": 0,
+    "Cumulative_deaths": 181
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MY",
+    "Country": "Malaysia",
+    "WHO_region": "WPRO",
+    "New_cases": 660,
+    "Cumulative_cases": 17540,
+    "New_deaths": 4,
+    "Cumulative_deaths": 167
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MV",
+    "Country": "Maldives",
+    "WHO_region": "SEARO",
+    "New_cases": 69,
+    "Cumulative_cases": 11062,
+    "New_deaths": 0,
+    "Cumulative_deaths": 35
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ML",
+    "Country": "Mali",
+    "WHO_region": "AFRO",
+    "New_cases": 55,
+    "Cumulative_cases": 3352,
+    "New_deaths": 0,
+    "Cumulative_deaths": 132
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MT",
+    "Country": "Malta",
+    "WHO_region": "EURO",
+    "New_cases": 111,
+    "Cumulative_cases": 4048,
+    "New_deaths": 0,
+    "Cumulative_deaths": 44
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MH",
+    "Country": "Marshall Islands",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MQ",
+    "Country": "Martinique",
+    "WHO_region": "AMRO",
+    "New_cases": 406,
+    "Cumulative_cases": 2257,
+    "New_deaths": 2,
+    "Cumulative_deaths": 24
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MR",
+    "Country": "Mauritania",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 7565,
+    "New_deaths": 0,
+    "Cumulative_deaths": 163
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MU",
+    "Country": "Mauritius",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 404,
+    "New_deaths": 0,
+    "Cumulative_deaths": 10
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "YT",
+    "Country": "Mayotte",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 4030,
+    "New_deaths": 0,
+    "Cumulative_deaths": 43
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MX",
+    "Country": "Mexico",
+    "WHO_region": "AMRO",
+    "New_cases": 4295,
+    "Cumulative_cases": 825340,
+    "New_deaths": 475,
+    "Cumulative_deaths": 84420
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "FM",
+    "Country": "Micronesia (Federated States of)",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MC",
+    "Country": "Monaco",
+    "WHO_region": "EURO",
+    "New_cases": 7,
+    "Cumulative_cases": 248,
+    "New_deaths": 0,
+    "Cumulative_deaths": 2
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MN",
+    "Country": "Mongolia",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 320,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ME",
+    "Country": "Montenegro",
+    "WHO_region": "EURO",
+    "New_cases": 221,
+    "Cumulative_cases": 15100,
+    "New_deaths": 2,
+    "Cumulative_deaths": 221
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MS",
+    "Country": "Montserrat",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 13,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MA",
+    "Country": "Morocco",
+    "WHO_region": "EMRO",
+    "New_cases": 3387,
+    "Cumulative_cases": 160333,
+    "New_deaths": 41,
+    "Cumulative_deaths": 2726
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MZ",
+    "Country": "Mozambique",
+    "WHO_region": "AFRO",
+    "New_cases": 134,
+    "Cumulative_cases": 10392,
+    "New_deaths": 0,
+    "Cumulative_deaths": 73
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MM",
+    "Country": "Myanmar",
+    "WHO_region": "SEARO",
+    "New_cases": 888,
+    "Cumulative_cases": 31325,
+    "New_deaths": 39,
+    "Cumulative_deaths": 732
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NA",
+    "Country": "Namibia",
+    "WHO_region": "AFRO",
+    "New_cases": 69,
+    "Cumulative_cases": 12069,
+    "New_deaths": 1,
+    "Cumulative_deaths": 130
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NR",
+    "Country": "Nauru",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NP",
+    "Country": "Nepal",
+    "WHO_region": "SEARO",
+    "New_cases": 2638,
+    "Cumulative_cases": 117996,
+    "New_deaths": 12,
+    "Cumulative_deaths": 675
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NL",
+    "Country": "Netherlands",
+    "WHO_region": "EURO",
+    "New_cases": 7271,
+    "Cumulative_cases": 195933,
+    "New_deaths": 32,
+    "Cumulative_deaths": 6654
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NC",
+    "Country": "New Caledonia",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 27,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NZ",
+    "Country": "New Zealand",
+    "WHO_region": "WPRO",
+    "New_cases": 2,
+    "Cumulative_cases": 1520,
+    "New_deaths": 0,
+    "Cumulative_deaths": 25
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NI",
+    "Country": "Nicaragua",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 4297,
+    "New_deaths": 0,
+    "Cumulative_deaths": 154
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NE",
+    "Country": "Niger",
+    "WHO_region": "AFRO",
+    "New_cases": 4,
+    "Cumulative_cases": 1205,
+    "New_deaths": 0,
+    "Cumulative_deaths": 69
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NG",
+    "Country": "Nigeria",
+    "WHO_region": "AFRO",
+    "New_cases": 179,
+    "Cumulative_cases": 60834,
+    "New_deaths": 0,
+    "Cumulative_deaths": 1116
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NU",
+    "Country": "Niue",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MK",
+    "Country": "North Macedonia",
+    "WHO_region": "EURO",
+    "New_cases": 443,
+    "Cumulative_cases": 21636,
+    "New_deaths": 9,
+    "Cumulative_deaths": 809
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MP",
+    "Country": "Northern Mariana Islands (Commonwealth of the)",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 77,
+    "New_deaths": 0,
+    "Cumulative_deaths": 2
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "NO",
+    "Country": "Norway",
+    "WHO_region": "EURO",
+    "New_cases": 152,
+    "Cumulative_cases": 15791,
+    "New_deaths": 0,
+    "Cumulative_deaths": 277
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PS",
+    "Country": "occupied Palestinian territory, including east Jerusalem",
+    "WHO_region": "EMRO",
+    "New_cases": 532,
+    "Cumulative_cases": 56999,
+    "New_deaths": 4,
+    "Cumulative_deaths": 463
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "OM",
+    "Country": "Oman",
+    "WHO_region": "EMRO",
+    "New_cases": 563,
+    "Cumulative_cases": 107776,
+    "New_deaths": 8,
+    "Cumulative_deaths": 1061
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "",
+    "Country": "Other",
+    "WHO_region": "Other",
+    "New_cases": 0,
+    "Cumulative_cases": 741,
+    "New_deaths": 0,
+    "Cumulative_deaths": 13
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PK",
+    "Country": "Pakistan",
+    "WHO_region": "EMRO",
+    "New_cases": 615,
+    "Cumulative_cases": 320463,
+    "New_deaths": 13,
+    "Cumulative_deaths": 6601
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PW",
+    "Country": "Palau",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PA",
+    "Country": "Panama",
+    "WHO_region": "AMRO",
+    "New_cases": 494,
+    "Cumulative_cases": 121296,
+    "New_deaths": 9,
+    "Cumulative_deaths": 2511
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PG",
+    "Country": "Papua New Guinea",
+    "WHO_region": "WPRO",
+    "New_cases": 13,
+    "Cumulative_cases": 578,
+    "New_deaths": 0,
+    "Cumulative_deaths": 7
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PY",
+    "Country": "Paraguay",
+    "WHO_region": "AMRO",
+    "New_cases": 853,
+    "Cumulative_cases": 51197,
+    "New_deaths": 12,
+    "Cumulative_deaths": 1108
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PE",
+    "Country": "Peru",
+    "WHO_region": "AMRO",
+    "New_cases": 2803,
+    "Cumulative_cases": 853974,
+    "New_deaths": 62,
+    "Cumulative_deaths": 33419
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PH",
+    "Country": "Philippines",
+    "WHO_region": "WPRO",
+    "New_cases": 1823,
+    "Cumulative_cases": 346536,
+    "New_deaths": 77,
+    "Cumulative_deaths": 6449
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PN",
+    "Country": "Pitcairn Islands",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PL",
+    "Country": "Poland",
+    "WHO_region": "EURO",
+    "New_cases": 6526,
+    "Cumulative_cases": 141804,
+    "New_deaths": 116,
+    "Cumulative_deaths": 3217
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PT",
+    "Country": "Portugal",
+    "WHO_region": "EURO",
+    "New_cases": 2072,
+    "Cumulative_cases": 91193,
+    "New_deaths": 7,
+    "Cumulative_deaths": 2117
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PR",
+    "Country": "Puerto Rico",
+    "WHO_region": "AMRO",
+    "New_cases": 976,
+    "Cumulative_cases": 55516,
+    "New_deaths": 4,
+    "Cumulative_deaths": 742
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "QA",
+    "Country": "Qatar",
+    "WHO_region": "EMRO",
+    "New_cases": 198,
+    "Cumulative_cases": 128603,
+    "New_deaths": 0,
+    "Cumulative_deaths": 220
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KR",
+    "Country": "Republic of Korea",
+    "WHO_region": "WPRO",
+    "New_cases": 110,
+    "Cumulative_cases": 24988,
+    "New_deaths": 1,
+    "Cumulative_deaths": 439
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MD",
+    "Country": "Republic of Moldova",
+    "WHO_region": "EURO",
+    "New_cases": 1149,
+    "Cumulative_cases": 64424,
+    "New_deaths": 19,
+    "Cumulative_deaths": 1514
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "RE",
+    "Country": "Réunion",
+    "WHO_region": "AFRO",
+    "New_cases": 54,
+    "Cumulative_cases": 4678,
+    "New_deaths": 0,
+    "Cumulative_deaths": 17
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "RO",
+    "Country": "Romania",
+    "WHO_region": "EURO",
+    "New_cases": 4016,
+    "Cumulative_cases": 164477,
+    "New_deaths": 66,
+    "Cumulative_deaths": 5601
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "RU",
+    "Country": "Russian Federation",
+    "WHO_region": "EURO",
+    "New_cases": 13754,
+    "Cumulative_cases": 1354163,
+    "New_deaths": 286,
+    "Cumulative_deaths": 23491
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "RW",
+    "Country": "Rwanda",
+    "WHO_region": "AFRO",
+    "New_cases": 32,
+    "Cumulative_cases": 4940,
+    "New_deaths": 1,
+    "Cumulative_deaths": 33
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "BL",
+    "Country": "Saint Barthélemy",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 65,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SH",
+    "Country": "Saint Helena",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "KN",
+    "Country": "Saint Kitts and Nevis",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 19,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LC",
+    "Country": "Saint Lucia",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 29,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "MF",
+    "Country": "Saint Martin",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 466,
+    "New_deaths": 0,
+    "Cumulative_deaths": 8
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "PM",
+    "Country": "Saint Pierre and Miquelon",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 16,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VC",
+    "Country": "Saint Vincent and the Grenadines",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 64,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "WS",
+    "Country": "Samoa",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SM",
+    "Country": "San Marino",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 772,
+    "New_deaths": 0,
+    "Cumulative_deaths": 42
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ST",
+    "Country": "Sao Tome and Principe",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 929,
+    "New_deaths": 0,
+    "Cumulative_deaths": 15
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SA",
+    "Country": "Saudi Arabia",
+    "WHO_region": "EMRO",
+    "New_cases": 501,
+    "Cumulative_cases": 340590,
+    "New_deaths": 21,
+    "Cumulative_deaths": 5108
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SN",
+    "Country": "Senegal",
+    "WHO_region": "AFRO",
+    "New_cases": 24,
+    "Cumulative_cases": 15331,
+    "New_deaths": 1,
+    "Cumulative_deaths": 316
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "RS",
+    "Country": "Serbia",
+    "WHO_region": "EURO",
+    "New_cases": 245,
+    "Cumulative_cases": 35251,
+    "New_deaths": 1,
+    "Cumulative_deaths": 768
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SC",
+    "Country": "Seychelles",
+    "WHO_region": "AFRO",
+    "New_cases": 1,
+    "Cumulative_cases": 148,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SL",
+    "Country": "Sierra Leone",
+    "WHO_region": "AFRO",
+    "New_cases": 6,
+    "Cumulative_cases": 2315,
+    "New_deaths": 1,
+    "Cumulative_deaths": 73
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SG",
+    "Country": "Singapore",
+    "WHO_region": "WPRO",
+    "New_cases": 5,
+    "Cumulative_cases": 57889,
+    "New_deaths": 0,
+    "Cumulative_deaths": 28
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SX",
+    "Country": "Sint Maarten",
+    "WHO_region": "AMRO",
+    "New_cases": 9,
+    "Cumulative_cases": 719,
+    "New_deaths": 0,
+    "Cumulative_deaths": 22
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SK",
+    "Country": "Slovakia",
+    "WHO_region": "EURO",
+    "New_cases": 1410,
+    "Cumulative_cases": 22296,
+    "New_deaths": 5,
+    "Cumulative_deaths": 66
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SI",
+    "Country": "Slovenia",
+    "WHO_region": "EURO",
+    "New_cases": 707,
+    "Cumulative_cases": 9938,
+    "New_deaths": 1,
+    "Cumulative_deaths": 148
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SB",
+    "Country": "Solomon Islands",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 2,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SO",
+    "Country": "Somalia",
+    "WHO_region": "EMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 3864,
+    "New_deaths": 0,
+    "Cumulative_deaths": 99
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ZA",
+    "Country": "South Africa",
+    "WHO_region": "AFRO",
+    "New_cases": 1877,
+    "Cumulative_cases": 696414,
+    "New_deaths": 123,
+    "Cumulative_deaths": 18151
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SS",
+    "Country": "South Sudan",
+    "WHO_region": "AFRO",
+    "New_cases": 9,
+    "Cumulative_cases": 2807,
+    "New_deaths": 0,
+    "Cumulative_deaths": 55
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ES",
+    "Country": "Spain",
+    "WHO_region": "EURO",
+    "New_cases": 5104,
+    "Cumulative_cases": 908056,
+    "New_deaths": 86,
+    "Cumulative_deaths": 33413
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "LK",
+    "Country": "Sri Lanka",
+    "WHO_region": "SEARO",
+    "New_cases": 130,
+    "Cumulative_cases": 5168,
+    "New_deaths": 0,
+    "Cumulative_deaths": 13
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SD",
+    "Country": "Sudan",
+    "WHO_region": "EMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 13691,
+    "New_deaths": 0,
+    "Cumulative_deaths": 836
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SR",
+    "Country": "Suriname",
+    "WHO_region": "AMRO",
+    "New_cases": 14,
+    "Cumulative_cases": 5072,
+    "New_deaths": 0,
+    "Cumulative_deaths": 107
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SE",
+    "Country": "Sweden",
+    "WHO_region": "EURO",
+    "New_cases": 970,
+    "Cumulative_cases": 102604,
+    "New_deaths": 1,
+    "Cumulative_deaths": 5917
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "CH",
+    "Country": "Switzerland",
+    "WHO_region": "EURO",
+    "New_cases": 2808,
+    "Cumulative_cases": 68534,
+    "New_deaths": 8,
+    "Cumulative_deaths": 1815
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "SY",
+    "Country": "Syrian Arab Republic",
+    "WHO_region": "EMRO",
+    "New_cases": 57,
+    "Cumulative_cases": 4883,
+    "New_deaths": 3,
+    "Cumulative_deaths": 234
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TJ",
+    "Country": "Tajikistan",
+    "WHO_region": "EURO",
+    "New_cases": 39,
+    "Cumulative_cases": 10336,
+    "New_deaths": 0,
+    "Cumulative_deaths": 79
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TH",
+    "Country": "Thailand",
+    "WHO_region": "SEARO",
+    "New_cases": 13,
+    "Cumulative_cases": 3665,
+    "New_deaths": 0,
+    "Cumulative_deaths": 59
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "GB",
+    "Country": "The United Kingdom",
+    "WHO_region": "EURO",
+    "New_cases": 19724,
+    "Cumulative_cases": 654648,
+    "New_deaths": 137,
+    "Cumulative_deaths": 43155
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TL",
+    "Country": "Timor-Leste",
+    "WHO_region": "SEARO",
+    "New_cases": 0,
+    "Cumulative_cases": 29,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TG",
+    "Country": "Togo",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 1972,
+    "New_deaths": 0,
+    "Cumulative_deaths": 50
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TK",
+    "Country": "Tokelau",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TO",
+    "Country": "Tonga",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TT",
+    "Country": "Trinidad and Tobago",
+    "WHO_region": "AMRO",
+    "New_cases": 11,
+    "Cumulative_cases": 5127,
+    "New_deaths": 1,
+    "Cumulative_deaths": 93
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TN",
+    "Country": "Tunisia",
+    "WHO_region": "EMRO",
+    "New_cases": 2234,
+    "Cumulative_cases": 34790,
+    "New_deaths": 34,
+    "Cumulative_deaths": 512
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TR",
+    "Country": "Turkey",
+    "WHO_region": "EURO",
+    "New_cases": 1671,
+    "Cumulative_cases": 340450,
+    "New_deaths": 57,
+    "Cumulative_deaths": 9014
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TM",
+    "Country": "Turkmenistan",
+    "WHO_region": "EURO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TC",
+    "Country": "Turks and Caicos Islands",
+    "WHO_region": "AMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 696,
+    "New_deaths": 0,
+    "Cumulative_deaths": 6
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TV",
+    "Country": "Tuvalu",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "UG",
+    "Country": "Uganda",
+    "WHO_region": "AFRO",
+    "New_cases": 124,
+    "Cumulative_cases": 10069,
+    "New_deaths": 0,
+    "Cumulative_deaths": 95
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "UA",
+    "Country": "Ukraine",
+    "WHO_region": "EURO",
+    "New_cases": 5062,
+    "Cumulative_cases": 281239,
+    "New_deaths": 73,
+    "Cumulative_deaths": 5302
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "AE",
+    "Country": "United Arab Emirates",
+    "WHO_region": "EMRO",
+    "New_cases": 1431,
+    "Cumulative_cases": 110039,
+    "New_deaths": 2,
+    "Cumulative_deaths": 450
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "TZ",
+    "Country": "United Republic of Tanzania",
+    "WHO_region": "AFRO",
+    "New_cases": 0,
+    "Cumulative_cases": 509,
+    "New_deaths": 0,
+    "Cumulative_deaths": 21
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "US",
+    "Country": "United States of America",
+    "WHO_region": "AMRO",
+    "New_cases": 46309,
+    "Cumulative_cases": 7774745,
+    "New_deaths": 743,
+    "Cumulative_deaths": 214369
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VI",
+    "Country": "United States Virgin Islands",
+    "WHO_region": "AMRO",
+    "New_cases": 3,
+    "Cumulative_cases": 1328,
+    "New_deaths": 0,
+    "Cumulative_deaths": 20
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "UY",
+    "Country": "Uruguay",
+    "WHO_region": "AMRO",
+    "New_cases": 24,
+    "Cumulative_cases": 2337,
+    "New_deaths": 0,
+    "Cumulative_deaths": 51
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "UZ",
+    "Country": "Uzbekistan",
+    "WHO_region": "EURO",
+    "New_cases": 316,
+    "Cumulative_cases": 62175,
+    "New_deaths": 4,
+    "Cumulative_deaths": 516
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VU",
+    "Country": "Vanuatu",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VE",
+    "Country": "Venezuela (Bolivarian Republic of)",
+    "WHO_region": "AMRO",
+    "New_cases": 635,
+    "Cumulative_cases": 84391,
+    "New_deaths": 6,
+    "Cumulative_deaths": 710
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "VN",
+    "Country": "Viet Nam",
+    "WHO_region": "WPRO",
+    "New_cases": 9,
+    "Cumulative_cases": 1122,
+    "New_deaths": 0,
+    "Cumulative_deaths": 35
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "WF",
+    "Country": "Wallis and Futuna",
+    "WHO_region": "WPRO",
+    "New_cases": 0,
+    "Cumulative_cases": 0,
+    "New_deaths": 0,
+    "Cumulative_deaths": 0
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "YE",
+    "Country": "Yemen",
+    "WHO_region": "EMRO",
+    "New_cases": 0,
+    "Cumulative_cases": 2057,
+    "New_deaths": 0,
+    "Cumulative_deaths": 597
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ZM",
+    "Country": "Zambia",
+    "WHO_region": "AFRO",
+    "New_cases": 67,
+    "Cumulative_cases": 15616,
+    "New_deaths": 0,
+    "Cumulative_deaths": 344
+  },
+  {
+    "Date_reported": "15/10/2020",
+    "Country_code": "ZW",
+    "Country": "Zimbabwe",
+    "WHO_region": "AFRO",
+    "New_cases": 19,
+    "Cumulative_cases": 8055,
+    "New_deaths": 1,
+    "Cumulative_deaths": 231
+  }
+]
